@@ -1,0 +1,1594 @@
+2025-04-06 21:28:41,570 - scheduler - INFO - Inicializando scheduler de posts
+2025-04-06 21:28:41,668 - app - INFO - Banco de dados inicializado com sucesso
+2025-04-06 21:28:41,928 - app - INFO - Configuração de webhook: {'ok': True, 'result': True, 'description': 'Webhook is already set'}
+2025-04-06 21:28:41,957 - scheduler - INFO - Configurações padrão criadas se necessário
+2025-04-06 21:28:41,964 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:28:41,966 - scheduler - INFO - Iniciando loop do scheduler
+2025-04-06 21:28:41,966 - scheduler - INFO - Scheduler iniciado
+2025-04-06 21:28:41,966 - app - INFO - Scheduler iniciado na inicialização do aplicativo
+2025-04-06 21:28:41,977 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:28:41,978 - scheduler - INFO - Verificando posts pendentes
+2025-04-06 21:28:41,983 - scheduler - INFO - Nenhum post pendente encontrado
+2025-04-06 21:28:52,001 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:28:54,267 - app - INFO - Login bem-sucedido
+2025-04-06 21:29:02,020 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:29:12,039 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:29:22,058 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:29:32,078 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:29:37,524 - scheduler - INFO - Inicializando scheduler de posts
+2025-04-06 21:29:37,570 - app - INFO - Banco de dados inicializado com sucesso
+2025-04-06 21:29:37,815 - app - INFO - Configuração de webhook: {'ok': True, 'result': True, 'description': 'Webhook is already set'}
+2025-04-06 21:29:37,843 - scheduler - INFO - Configurações padrão criadas se necessário
+2025-04-06 21:29:37,850 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:29:37,850 - scheduler - INFO - Iniciando loop do scheduler
+2025-04-06 21:29:37,850 - scheduler - INFO - Scheduler iniciado
+2025-04-06 21:29:37,850 - app - INFO - Scheduler iniciado na inicialização do aplicativo
+2025-04-06 21:29:37,860 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:29:37,860 - scheduler - INFO - Verificando posts pendentes
+2025-04-06 21:29:37,865 - scheduler - INFO - Nenhum post pendente encontrado
+2025-04-06 21:29:47,884 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:29:57,902 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:30:07,929 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:30:18,014 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:30:28,031 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:30:38,053 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:30:48,072 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:31:01,277 - scheduler - INFO - Inicializando scheduler de posts
+2025-04-06 21:31:01,335 - app - INFO - Banco de dados inicializado com sucesso
+2025-04-06 21:31:01,599 - app - INFO - Configuração de webhook: {'ok': True, 'result': True, 'description': 'Webhook is already set'}
+2025-04-06 21:31:01,662 - scheduler - INFO - Configurações padrão criadas se necessário
+2025-04-06 21:31:01,674 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:31:01,677 - scheduler - INFO - Iniciando loop do scheduler
+2025-04-06 21:31:01,678 - scheduler - INFO - Scheduler iniciado
+2025-04-06 21:31:01,678 - app - INFO - Scheduler iniciado na inicialização do aplicativo
+2025-04-06 21:31:01,701 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:31:01,702 - scheduler - INFO - Verificando posts pendentes
+2025-04-06 21:31:01,722 - scheduler - INFO - Nenhum post pendente encontrado
+2025-04-06 21:31:11,743 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:31:21,761 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:31:31,779 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:31:41,798 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:31:51,816 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:32:01,837 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:32:11,854 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:32:21,872 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:32:31,892 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:32:41,910 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:32:51,927 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:33:01,946 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:33:11,964 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:33:21,981 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:33:31,998 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:33:42,013 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:33:52,031 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:34:02,068 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:34:12,086 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:34:22,108 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:34:32,125 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:34:42,143 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:34:52,161 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:35:02,183 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:35:12,202 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:35:22,223 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:35:32,267 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:35:42,361 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:35:52,378 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:36:02,407 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:36:12,426 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:36:22,443 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:36:32,463 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:36:42,481 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:36:52,500 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:37:02,518 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:37:12,564 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:37:22,583 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:37:32,602 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:37:42,617 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:37:52,635 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:38:02,654 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:38:12,676 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:38:22,695 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:38:32,714 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:38:42,732 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:38:52,750 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:39:02,770 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:39:12,787 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:39:22,805 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:39:32,823 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:39:42,840 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:39:52,859 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:40:02,890 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:40:12,912 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:40:22,931 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:40:32,954 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:40:42,979 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:40:52,998 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:41:03,016 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:41:03,017 - scheduler - INFO - Verificando posts pendentes
+2025-04-06 21:41:03,022 - scheduler - INFO - Nenhum post pendente encontrado
+2025-04-06 21:41:13,043 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:41:23,060 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:41:33,083 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:41:43,100 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:41:53,118 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:42:03,138 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:42:13,157 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:42:23,175 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:42:33,193 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:42:43,210 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:42:53,228 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:43:03,248 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:43:13,266 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:43:23,284 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:43:33,304 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:43:43,320 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:43:53,346 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:44:03,365 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:44:13,386 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:44:23,404 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:44:33,422 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:44:43,442 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:44:53,459 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:45:03,481 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:45:13,530 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:45:23,548 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:45:33,566 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:45:48,826 - scheduler - INFO - Inicializando scheduler de posts
+2025-04-06 21:45:48,879 - app - INFO - Banco de dados inicializado com sucesso
+2025-04-06 21:45:49,129 - app - INFO - Configuração de webhook: {'ok': True, 'result': True, 'description': 'Webhook is already set'}
+2025-04-06 21:45:49,163 - scheduler - INFO - Configurações padrão criadas se necessário
+2025-04-06 21:45:49,171 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:45:49,171 - scheduler - INFO - Iniciando loop do scheduler
+2025-04-06 21:45:49,171 - scheduler - INFO - Scheduler iniciado
+2025-04-06 21:45:49,172 - app - INFO - Scheduler iniciado na inicialização do aplicativo
+2025-04-06 21:45:49,187 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:45:49,188 - scheduler - INFO - Verificando posts pendentes
+2025-04-06 21:45:49,199 - scheduler - INFO - Nenhum post pendente encontrado
+2025-04-06 21:45:59,216 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:46:06,654 - app - INFO - Login bem-sucedido
+2025-04-06 21:46:09,240 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:46:19,283 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:46:29,318 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:46:39,335 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:46:50,700 - scheduler - INFO - Inicializando scheduler de posts
+2025-04-06 21:46:50,742 - app - INFO - Banco de dados inicializado com sucesso
+2025-04-06 21:46:50,991 - app - INFO - Configuração de webhook: {'ok': True, 'result': True, 'description': 'Webhook is already set'}
+2025-04-06 21:46:51,021 - scheduler - INFO - Configurações padrão criadas se necessário
+2025-04-06 21:46:51,030 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:46:51,031 - scheduler - INFO - Iniciando loop do scheduler
+2025-04-06 21:46:51,031 - scheduler - INFO - Scheduler iniciado
+2025-04-06 21:46:51,031 - app - INFO - Scheduler iniciado na inicialização do aplicativo
+2025-04-06 21:46:51,042 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:46:51,043 - scheduler - INFO - Verificando posts pendentes
+2025-04-06 21:46:51,048 - scheduler - INFO - Nenhum post pendente encontrado
+2025-04-06 21:46:54,300 - app - ERROR - Exception on /static/img/spinner.svg [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 270, in <lambda>
+    view_func=lambda **kw: self_ref().send_static_file(**kw),  # type: ignore # noqa: B950
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 318, in send_static_file
+    return send_from_directory(
+  File "/usr/local/lib/python3.9/site-packages/flask/helpers.py", line 552, in send_from_directory
+    return werkzeug.utils.send_from_directory(  # type: ignore[return-value]
+  File "/usr/local/lib/python3.9/site-packages/werkzeug/utils.py", line 575, in send_from_directory
+    raise NotFound()
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 765, in handle_user_exception
+    return self.handle_http_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 740, in handle_http_exception
+    return self.ensure_sync(handler)(e)  # type: ignore[no-any-return]
+  File "/home/jaxonfinxx/mysite/app.py", line 980, in page_not_found
+    return render_template('404.html'), 404
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 131, in _render
+    rv = template.render(context)
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/jaxonfinxx/mysite/templates/404.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/jaxonfinxx/mysite/templates/layout.html", line 92, in top-level template code
+    <p class="text-muted mt-2">{{ now.strftime('%d/%m/%Y %H:%M') }}</p>
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 487, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'now' is undefined
+2025-04-06 21:46:54,537 - app - ERROR - Exception on /static/img/favicon.ico [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 270, in <lambda>
+    view_func=lambda **kw: self_ref().send_static_file(**kw),  # type: ignore # noqa: B950
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 318, in send_static_file
+    return send_from_directory(
+  File "/usr/local/lib/python3.9/site-packages/flask/helpers.py", line 552, in send_from_directory
+    return werkzeug.utils.send_from_directory(  # type: ignore[return-value]
+  File "/usr/local/lib/python3.9/site-packages/werkzeug/utils.py", line 575, in send_from_directory
+    raise NotFound()
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 765, in handle_user_exception
+    return self.handle_http_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 740, in handle_http_exception
+    return self.ensure_sync(handler)(e)  # type: ignore[no-any-return]
+  File "/home/jaxonfinxx/mysite/app.py", line 980, in page_not_found
+    return render_template('404.html'), 404
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 131, in _render
+    rv = template.render(context)
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/jaxonfinxx/mysite/templates/404.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/jaxonfinxx/mysite/templates/layout.html", line 92, in top-level template code
+    <p class="text-muted mt-2">{{ now.strftime('%d/%m/%Y %H:%M') }}</p>
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 487, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'now' is undefined
+2025-04-06 21:47:01,065 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:47:09,734 - app - ERROR - Exception on /favicon.ico [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 854, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 463, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "/usr/local/lib/python3.9/site-packages/flask/ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/usr/local/lib/python3.9/site-packages/werkzeug/routing/map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 765, in handle_user_exception
+    return self.handle_http_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 740, in handle_http_exception
+    return self.ensure_sync(handler)(e)  # type: ignore[no-any-return]
+  File "/home/jaxonfinxx/mysite/app.py", line 980, in page_not_found
+    return render_template('404.html'), 404
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 131, in _render
+    rv = template.render(context)
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/jaxonfinxx/mysite/templates/404.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/jaxonfinxx/mysite/templates/layout.html", line 92, in top-level template code
+    <p class="text-muted mt-2">{{ now.strftime('%d/%m/%Y %H:%M') }}</p>
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 487, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'now' is undefined
+2025-04-06 21:47:11,080 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:47:18,053 - app - ERROR - Exception on /favicon.ico [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 854, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 463, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "/usr/local/lib/python3.9/site-packages/flask/ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/usr/local/lib/python3.9/site-packages/werkzeug/routing/map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 765, in handle_user_exception
+    return self.handle_http_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 740, in handle_http_exception
+    return self.ensure_sync(handler)(e)  # type: ignore[no-any-return]
+  File "/home/jaxonfinxx/mysite/app.py", line 980, in page_not_found
+    return render_template('404.html'), 404
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 131, in _render
+    rv = template.render(context)
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/jaxonfinxx/mysite/templates/404.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/jaxonfinxx/mysite/templates/layout.html", line 92, in top-level template code
+    <p class="text-muted mt-2">{{ now.strftime('%d/%m/%Y %H:%M') }}</p>
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 487, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'now' is undefined
+2025-04-06 21:47:21,097 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:47:29,136 - app - ERROR - Exception on /static/img/favicon.ico [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 270, in <lambda>
+    view_func=lambda **kw: self_ref().send_static_file(**kw),  # type: ignore # noqa: B950
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 318, in send_static_file
+    return send_from_directory(
+  File "/usr/local/lib/python3.9/site-packages/flask/helpers.py", line 552, in send_from_directory
+    return werkzeug.utils.send_from_directory(  # type: ignore[return-value]
+  File "/usr/local/lib/python3.9/site-packages/werkzeug/utils.py", line 575, in send_from_directory
+    raise NotFound()
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 765, in handle_user_exception
+    return self.handle_http_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 740, in handle_http_exception
+    return self.ensure_sync(handler)(e)  # type: ignore[no-any-return]
+  File "/home/jaxonfinxx/mysite/app.py", line 980, in page_not_found
+    return render_template('404.html'), 404
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 131, in _render
+    rv = template.render(context)
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/jaxonfinxx/mysite/templates/404.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/jaxonfinxx/mysite/templates/layout.html", line 92, in top-level template code
+    <p class="text-muted mt-2">{{ now.strftime('%d/%m/%Y %H:%M') }}</p>
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 487, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'now' is undefined
+2025-04-06 21:47:31,114 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:47:38,281 - app - ERROR - Exception on /static/img/favicon.ico [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 270, in <lambda>
+    view_func=lambda **kw: self_ref().send_static_file(**kw),  # type: ignore # noqa: B950
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 318, in send_static_file
+    return send_from_directory(
+  File "/usr/local/lib/python3.9/site-packages/flask/helpers.py", line 552, in send_from_directory
+    return werkzeug.utils.send_from_directory(  # type: ignore[return-value]
+  File "/usr/local/lib/python3.9/site-packages/werkzeug/utils.py", line 575, in send_from_directory
+    raise NotFound()
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 765, in handle_user_exception
+    return self.handle_http_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 740, in handle_http_exception
+    return self.ensure_sync(handler)(e)  # type: ignore[no-any-return]
+  File "/home/jaxonfinxx/mysite/app.py", line 980, in page_not_found
+    return render_template('404.html'), 404
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 131, in _render
+    rv = template.render(context)
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/jaxonfinxx/mysite/templates/404.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/jaxonfinxx/mysite/templates/layout.html", line 92, in top-level template code
+    <p class="text-muted mt-2">{{ now.strftime('%d/%m/%Y %H:%M') }}</p>
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 487, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'now' is undefined
+2025-04-06 21:47:41,131 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:47:50,476 - app - ERROR - Exception on /static/img/favicon.ico [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 270, in <lambda>
+    view_func=lambda **kw: self_ref().send_static_file(**kw),  # type: ignore # noqa: B950
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 318, in send_static_file
+    return send_from_directory(
+  File "/usr/local/lib/python3.9/site-packages/flask/helpers.py", line 552, in send_from_directory
+    return werkzeug.utils.send_from_directory(  # type: ignore[return-value]
+  File "/usr/local/lib/python3.9/site-packages/werkzeug/utils.py", line 575, in send_from_directory
+    raise NotFound()
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 765, in handle_user_exception
+    return self.handle_http_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 740, in handle_http_exception
+    return self.ensure_sync(handler)(e)  # type: ignore[no-any-return]
+  File "/home/jaxonfinxx/mysite/app.py", line 980, in page_not_found
+    return render_template('404.html'), 404
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 131, in _render
+    rv = template.render(context)
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/jaxonfinxx/mysite/templates/404.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/jaxonfinxx/mysite/templates/layout.html", line 92, in top-level template code
+    <p class="text-muted mt-2">{{ now.strftime('%d/%m/%Y %H:%M') }}</p>
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 487, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'now' is undefined
+2025-04-06 21:47:51,149 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:47:54,742 - app - ERROR - Exception on /static/img/spinner.svg [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 270, in <lambda>
+    view_func=lambda **kw: self_ref().send_static_file(**kw),  # type: ignore # noqa: B950
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 318, in send_static_file
+    return send_from_directory(
+  File "/usr/local/lib/python3.9/site-packages/flask/helpers.py", line 552, in send_from_directory
+    return werkzeug.utils.send_from_directory(  # type: ignore[return-value]
+  File "/usr/local/lib/python3.9/site-packages/werkzeug/utils.py", line 575, in send_from_directory
+    raise NotFound()
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 765, in handle_user_exception
+    return self.handle_http_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 740, in handle_http_exception
+    return self.ensure_sync(handler)(e)  # type: ignore[no-any-return]
+  File "/home/jaxonfinxx/mysite/app.py", line 980, in page_not_found
+    return render_template('404.html'), 404
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 131, in _render
+    rv = template.render(context)
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/jaxonfinxx/mysite/templates/404.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/jaxonfinxx/mysite/templates/layout.html", line 92, in top-level template code
+    <p class="text-muted mt-2">{{ now.strftime('%d/%m/%Y %H:%M') }}</p>
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 487, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'now' is undefined
+2025-04-06 21:47:55,006 - app - ERROR - Exception on /static/img/favicon.ico [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 270, in <lambda>
+    view_func=lambda **kw: self_ref().send_static_file(**kw),  # type: ignore # noqa: B950
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 318, in send_static_file
+    return send_from_directory(
+  File "/usr/local/lib/python3.9/site-packages/flask/helpers.py", line 552, in send_from_directory
+    return werkzeug.utils.send_from_directory(  # type: ignore[return-value]
+  File "/usr/local/lib/python3.9/site-packages/werkzeug/utils.py", line 575, in send_from_directory
+    raise NotFound()
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 765, in handle_user_exception
+    return self.handle_http_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 740, in handle_http_exception
+    return self.ensure_sync(handler)(e)  # type: ignore[no-any-return]
+  File "/home/jaxonfinxx/mysite/app.py", line 980, in page_not_found
+    return render_template('404.html'), 404
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 131, in _render
+    rv = template.render(context)
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/jaxonfinxx/mysite/templates/404.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/jaxonfinxx/mysite/templates/layout.html", line 92, in top-level template code
+    <p class="text-muted mt-2">{{ now.strftime('%d/%m/%Y %H:%M') }}</p>
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 487, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'now' is undefined
+2025-04-06 21:48:00,179 - app - ERROR - Exception on /favicon.ico [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 854, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 463, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "/usr/local/lib/python3.9/site-packages/flask/ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/usr/local/lib/python3.9/site-packages/werkzeug/routing/map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 765, in handle_user_exception
+    return self.handle_http_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 740, in handle_http_exception
+    return self.ensure_sync(handler)(e)  # type: ignore[no-any-return]
+  File "/home/jaxonfinxx/mysite/app.py", line 980, in page_not_found
+    return render_template('404.html'), 404
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 131, in _render
+    rv = template.render(context)
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/jaxonfinxx/mysite/templates/404.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/jaxonfinxx/mysite/templates/layout.html", line 92, in top-level template code
+    <p class="text-muted mt-2">{{ now.strftime('%d/%m/%Y %H:%M') }}</p>
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 487, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'now' is undefined
+2025-04-06 21:48:01,165 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:48:11,186 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:48:21,205 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:48:23,078 - app - ERROR - Exception on /favicon.ico [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 854, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 463, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "/usr/local/lib/python3.9/site-packages/flask/ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/usr/local/lib/python3.9/site-packages/werkzeug/routing/map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 765, in handle_user_exception
+    return self.handle_http_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 740, in handle_http_exception
+    return self.ensure_sync(handler)(e)  # type: ignore[no-any-return]
+  File "/home/jaxonfinxx/mysite/app.py", line 980, in page_not_found
+    return render_template('404.html'), 404
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 131, in _render
+    rv = template.render(context)
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/jaxonfinxx/mysite/templates/404.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/jaxonfinxx/mysite/templates/layout.html", line 92, in top-level template code
+    <p class="text-muted mt-2">{{ now.strftime('%d/%m/%Y %H:%M') }}</p>
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 487, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'now' is undefined
+2025-04-06 21:48:31,221 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:48:41,238 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:48:51,257 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:49:01,274 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:49:11,291 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:49:21,310 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:49:31,328 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:49:41,351 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:49:51,368 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:50:01,386 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:50:11,415 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:50:21,442 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:50:31,460 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:50:41,476 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:50:51,493 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:51:01,511 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:51:11,536 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:51:21,553 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:51:31,570 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:51:41,588 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:51:51,606 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:52:01,626 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:52:11,642 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:52:21,661 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:52:31,678 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:52:41,698 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:52:51,716 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:53:01,732 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:53:11,752 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:53:21,770 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:53:31,790 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:53:41,807 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:53:51,825 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:54:01,887 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:54:11,920 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:54:21,940 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:54:31,958 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:54:41,976 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:54:51,993 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:55:02,014 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:55:12,039 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:55:22,080 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:55:32,099 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:55:42,121 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:55:52,142 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:56:02,167 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:56:12,245 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:56:22,264 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:56:32,285 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:56:42,305 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:56:52,324 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:56:52,324 - scheduler - INFO - Verificando posts pendentes
+2025-04-06 21:56:52,330 - scheduler - INFO - Nenhum post pendente encontrado
+2025-04-06 21:57:02,348 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:57:12,367 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:57:22,384 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:57:32,403 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:57:42,422 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:57:52,440 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:58:02,462 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:58:12,498 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:58:22,512 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:58:32,529 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:58:42,547 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:58:52,570 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:59:02,590 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:59:12,608 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:59:22,648 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:59:32,667 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:59:42,691 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 21:59:52,709 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:00:02,730 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:00:12,746 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:00:22,764 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:00:32,784 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:00:42,849 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:00:52,871 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:01:02,896 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:01:12,914 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:01:22,931 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:01:32,952 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:01:42,970 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:01:52,988 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:02:03,008 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:02:13,026 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:02:23,043 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:02:33,062 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:02:43,087 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:02:53,105 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:03:03,121 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:03:13,145 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:03:23,162 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:03:33,187 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:03:43,274 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:03:50,742 - scheduler - INFO - Inicializando scheduler de posts
+2025-04-06 22:03:50,817 - app - INFO - Banco de dados inicializado com sucesso
+2025-04-06 22:03:51,087 - app - INFO - Configuração de webhook: {'ok': True, 'result': True, 'description': 'Webhook is already set'}
+2025-04-06 22:03:51,118 - scheduler - INFO - Configurações padrão criadas se necessário
+2025-04-06 22:03:51,127 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:03:51,127 - scheduler - INFO - Iniciando loop do scheduler
+2025-04-06 22:03:51,127 - scheduler - INFO - Scheduler iniciado
+2025-04-06 22:03:51,128 - app - INFO - Scheduler iniciado na inicialização do aplicativo
+2025-04-06 22:03:51,142 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:03:51,144 - scheduler - INFO - Verificando posts pendentes
+2025-04-06 22:03:51,151 - scheduler - INFO - Nenhum post pendente encontrado
+2025-04-06 22:04:01,170 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:04:10,317 - app - INFO - Login bem-sucedido
+2025-04-06 22:04:11,194 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:04:21,215 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:04:31,237 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:04:43,177 - scheduler - INFO - Inicializando scheduler de posts
+2025-04-06 22:04:43,233 - app - INFO - Banco de dados inicializado com sucesso
+2025-04-06 22:04:43,513 - app - INFO - Configuração de webhook: {'ok': True, 'result': True, 'description': 'Webhook is already set'}
+2025-04-06 22:04:43,554 - scheduler - INFO - Configurações padrão criadas se necessário
+2025-04-06 22:04:43,564 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:04:43,567 - scheduler - INFO - Iniciando loop do scheduler
+2025-04-06 22:04:43,567 - scheduler - INFO - Scheduler iniciado
+2025-04-06 22:04:43,567 - app - INFO - Scheduler iniciado na inicialização do aplicativo
+2025-04-06 22:04:43,596 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:04:43,597 - scheduler - INFO - Verificando posts pendentes
+2025-04-06 22:04:43,614 - scheduler - INFO - Nenhum post pendente encontrado
+2025-04-06 22:04:45,486 - app - ERROR - Exception on /favicon.ico [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 854, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 463, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "/usr/local/lib/python3.9/site-packages/flask/ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/usr/local/lib/python3.9/site-packages/werkzeug/routing/map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 765, in handle_user_exception
+    return self.handle_http_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 740, in handle_http_exception
+    return self.ensure_sync(handler)(e)  # type: ignore[no-any-return]
+  File "/home/jaxonfinxx/mysite/app.py", line 980, in page_not_found
+    return render_template('404.html'), 404
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 131, in _render
+    rv = template.render(context)
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/jaxonfinxx/mysite/templates/404.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/jaxonfinxx/mysite/templates/layout.html", line 98, in top-level template code
+    <p class="text-muted mt-2">{{ now.strftime('%d/%m/%Y %H:%M') }}</p>
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 487, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'now' is undefined
+2025-04-06 22:04:45,504 - root - ERROR - OSError: write error
+2025-04-06 22:04:53,644 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:05:03,661 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:05:13,685 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:05:23,702 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:05:36,421 - scheduler - INFO - Inicializando scheduler de posts
+2025-04-06 22:05:36,473 - app - INFO - Banco de dados inicializado com sucesso
+2025-04-06 22:05:36,736 - app - INFO - Configuração de webhook: {'ok': True, 'result': True, 'description': 'Webhook is already set'}
+2025-04-06 22:05:36,773 - scheduler - INFO - Configurações padrão criadas se necessário
+2025-04-06 22:05:36,787 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:05:36,788 - scheduler - INFO - Iniciando loop do scheduler
+2025-04-06 22:05:36,788 - scheduler - INFO - Scheduler iniciado
+2025-04-06 22:05:36,788 - app - INFO - Scheduler iniciado na inicialização do aplicativo
+2025-04-06 22:05:36,803 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:05:36,812 - scheduler - INFO - Verificando posts pendentes
+2025-04-06 22:05:36,820 - scheduler - INFO - Nenhum post pendente encontrado
+2025-04-06 22:05:46,837 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:05:56,854 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:06:06,877 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:06:16,896 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:06:26,913 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:06:36,933 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:06:46,951 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:06:56,971 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:07:06,996 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:07:17,016 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:07:27,034 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:07:44,137 - scheduler - INFO - Inicializando scheduler de posts
+2025-04-06 22:07:44,182 - app - INFO - Banco de dados inicializado com sucesso
+2025-04-06 22:07:44,444 - app - INFO - Configuração de webhook: {'ok': True, 'result': True, 'description': 'Webhook is already set'}
+2025-04-06 22:07:44,477 - scheduler - INFO - Configurações padrão criadas se necessário
+2025-04-06 22:07:44,485 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:07:44,486 - scheduler - INFO - Iniciando loop do scheduler
+2025-04-06 22:07:44,486 - scheduler - INFO - Scheduler iniciado
+2025-04-06 22:07:44,486 - app - INFO - Scheduler iniciado na inicialização do aplicativo
+2025-04-06 22:07:44,502 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:07:44,503 - scheduler - INFO - Verificando posts pendentes
+2025-04-06 22:07:44,511 - scheduler - INFO - Nenhum post pendente encontrado
+2025-04-06 22:07:44,777 - app - ERROR - Exception on /favicon.ico [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 854, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 463, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "/usr/local/lib/python3.9/site-packages/flask/ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/usr/local/lib/python3.9/site-packages/werkzeug/routing/map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 765, in handle_user_exception
+    return self.handle_http_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 740, in handle_http_exception
+    return self.ensure_sync(handler)(e)  # type: ignore[no-any-return]
+  File "/home/jaxonfinxx/mysite/app.py", line 980, in page_not_found
+    return render_template('404.html'), 404
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 131, in _render
+    rv = template.render(context)
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/jaxonfinxx/mysite/templates/404.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/jaxonfinxx/mysite/templates/layout.html", line 98, in top-level template code
+    <p class="text-muted mt-2">{{ now.strftime('%d/%m/%Y %H:%M') }}</p>
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 487, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'now' is undefined
+2025-04-06 22:07:44,787 - root - ERROR - OSError: write error
+2025-04-06 22:07:54,531 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:08:04,549 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:08:14,569 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:08:24,588 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:08:34,606 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:08:41,727 - scheduler - INFO - Inicializando scheduler de posts
+2025-04-06 22:08:41,778 - app - INFO - Banco de dados inicializado com sucesso
+2025-04-06 22:08:42,035 - app - INFO - Configuração de webhook: {'ok': True, 'result': True, 'description': 'Webhook is already set'}
+2025-04-06 22:08:42,070 - scheduler - INFO - Configurações padrão criadas se necessário
+2025-04-06 22:08:42,080 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:08:42,080 - scheduler - INFO - Iniciando loop do scheduler
+2025-04-06 22:08:42,081 - scheduler - INFO - Scheduler iniciado
+2025-04-06 22:08:42,081 - app - INFO - Scheduler iniciado na inicialização do aplicativo
+2025-04-06 22:08:42,096 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:08:42,100 - scheduler - INFO - Verificando posts pendentes
+2025-04-06 22:08:42,114 - scheduler - INFO - Nenhum post pendente encontrado
+2025-04-06 22:08:52,133 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:08:53,178 - app - ERROR - Exception on /favicon.ico [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 854, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 463, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "/usr/local/lib/python3.9/site-packages/flask/ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/usr/local/lib/python3.9/site-packages/werkzeug/routing/map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 765, in handle_user_exception
+    return self.handle_http_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 740, in handle_http_exception
+    return self.ensure_sync(handler)(e)  # type: ignore[no-any-return]
+  File "/home/jaxonfinxx/mysite/app.py", line 980, in page_not_found
+    return render_template('404.html'), 404
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 131, in _render
+    rv = template.render(context)
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/jaxonfinxx/mysite/templates/404.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/jaxonfinxx/mysite/templates/layout.html", line 98, in top-level template code
+    <p class="text-muted mt-2">{{ now.strftime('%d/%m/%Y %H:%M') }}</p>
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 487, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'now' is undefined
+2025-04-06 22:09:01,761 - app - ERROR - Exception on /favicon.ico [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 854, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 463, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "/usr/local/lib/python3.9/site-packages/flask/ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/usr/local/lib/python3.9/site-packages/werkzeug/routing/map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 765, in handle_user_exception
+    return self.handle_http_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 740, in handle_http_exception
+    return self.ensure_sync(handler)(e)  # type: ignore[no-any-return]
+  File "/home/jaxonfinxx/mysite/app.py", line 980, in page_not_found
+    return render_template('404.html'), 404
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 131, in _render
+    rv = template.render(context)
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/jaxonfinxx/mysite/templates/404.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/jaxonfinxx/mysite/templates/layout.html", line 98, in top-level template code
+    <p class="text-muted mt-2">{{ now.strftime('%d/%m/%Y %H:%M') }}</p>
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 487, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'now' is undefined
+2025-04-06 22:09:02,159 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:09:11,045 - app - ERROR - Exception on /favicon.ico [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 854, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 463, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "/usr/local/lib/python3.9/site-packages/flask/ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/usr/local/lib/python3.9/site-packages/werkzeug/routing/map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 765, in handle_user_exception
+    return self.handle_http_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 740, in handle_http_exception
+    return self.ensure_sync(handler)(e)  # type: ignore[no-any-return]
+  File "/home/jaxonfinxx/mysite/app.py", line 980, in page_not_found
+    return render_template('404.html'), 404
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 131, in _render
+    rv = template.render(context)
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/jaxonfinxx/mysite/templates/404.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/jaxonfinxx/mysite/templates/layout.html", line 98, in top-level template code
+    <p class="text-muted mt-2">{{ now.strftime('%d/%m/%Y %H:%M') }}</p>
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 487, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'now' is undefined
+2025-04-06 22:09:12,186 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:09:22,203 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:09:32,221 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:09:35,050 - app - ERROR - Exception on /favicon.ico [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 854, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 463, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "/usr/local/lib/python3.9/site-packages/flask/ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/usr/local/lib/python3.9/site-packages/werkzeug/routing/map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 765, in handle_user_exception
+    return self.handle_http_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 740, in handle_http_exception
+    return self.ensure_sync(handler)(e)  # type: ignore[no-any-return]
+  File "/home/jaxonfinxx/mysite/app.py", line 980, in page_not_found
+    return render_template('404.html'), 404
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 131, in _render
+    rv = template.render(context)
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/jaxonfinxx/mysite/templates/404.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/jaxonfinxx/mysite/templates/layout.html", line 98, in top-level template code
+    <p class="text-muted mt-2">{{ now.strftime('%d/%m/%Y %H:%M') }}</p>
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 487, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'now' is undefined
+2025-04-06 22:09:42,241 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:09:43,494 - app - ERROR - Exception on /favicon.ico [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 854, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 463, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "/usr/local/lib/python3.9/site-packages/flask/ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/usr/local/lib/python3.9/site-packages/werkzeug/routing/map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 765, in handle_user_exception
+    return self.handle_http_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 740, in handle_http_exception
+    return self.ensure_sync(handler)(e)  # type: ignore[no-any-return]
+  File "/home/jaxonfinxx/mysite/app.py", line 980, in page_not_found
+    return render_template('404.html'), 404
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 131, in _render
+    rv = template.render(context)
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/jaxonfinxx/mysite/templates/404.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/jaxonfinxx/mysite/templates/layout.html", line 98, in top-level template code
+    <p class="text-muted mt-2">{{ now.strftime('%d/%m/%Y %H:%M') }}</p>
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 487, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'now' is undefined
+2025-04-06 22:09:46,473 - app - ERROR - Exception on /favicon.ico [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 854, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 463, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "/usr/local/lib/python3.9/site-packages/flask/ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/usr/local/lib/python3.9/site-packages/werkzeug/routing/map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 765, in handle_user_exception
+    return self.handle_http_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 740, in handle_http_exception
+    return self.ensure_sync(handler)(e)  # type: ignore[no-any-return]
+  File "/home/jaxonfinxx/mysite/app.py", line 980, in page_not_found
+    return render_template('404.html'), 404
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 131, in _render
+    rv = template.render(context)
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/jaxonfinxx/mysite/templates/404.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/jaxonfinxx/mysite/templates/layout.html", line 98, in top-level template code
+    <p class="text-muted mt-2">{{ now.strftime('%d/%m/%Y %H:%M') }}</p>
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 487, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'now' is undefined
+2025-04-06 22:09:52,258 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:09:53,596 - app - ERROR - Exception on /favicon.ico [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 854, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 463, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "/usr/local/lib/python3.9/site-packages/flask/ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/usr/local/lib/python3.9/site-packages/werkzeug/routing/map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 765, in handle_user_exception
+    return self.handle_http_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 740, in handle_http_exception
+    return self.ensure_sync(handler)(e)  # type: ignore[no-any-return]
+  File "/home/jaxonfinxx/mysite/app.py", line 980, in page_not_found
+    return render_template('404.html'), 404
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 131, in _render
+    rv = template.render(context)
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/jaxonfinxx/mysite/templates/404.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/jaxonfinxx/mysite/templates/layout.html", line 98, in top-level template code
+    <p class="text-muted mt-2">{{ now.strftime('%d/%m/%Y %H:%M') }}</p>
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 487, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'now' is undefined
+2025-04-06 22:09:58,074 - app - ERROR - Exception on /favicon.ico [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 854, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 463, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "/usr/local/lib/python3.9/site-packages/flask/ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/usr/local/lib/python3.9/site-packages/werkzeug/routing/map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 765, in handle_user_exception
+    return self.handle_http_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 740, in handle_http_exception
+    return self.ensure_sync(handler)(e)  # type: ignore[no-any-return]
+  File "/home/jaxonfinxx/mysite/app.py", line 980, in page_not_found
+    return render_template('404.html'), 404
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 131, in _render
+    rv = template.render(context)
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/jaxonfinxx/mysite/templates/404.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/jaxonfinxx/mysite/templates/layout.html", line 98, in top-level template code
+    <p class="text-muted mt-2">{{ now.strftime('%d/%m/%Y %H:%M') }}</p>
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 487, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'now' is undefined
+2025-04-06 22:10:00,408 - app - ERROR - Exception on /favicon.ico [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 854, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 463, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "/usr/local/lib/python3.9/site-packages/flask/ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/usr/local/lib/python3.9/site-packages/werkzeug/routing/map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 765, in handle_user_exception
+    return self.handle_http_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 740, in handle_http_exception
+    return self.ensure_sync(handler)(e)  # type: ignore[no-any-return]
+  File "/home/jaxonfinxx/mysite/app.py", line 980, in page_not_found
+    return render_template('404.html'), 404
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 131, in _render
+    rv = template.render(context)
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/jaxonfinxx/mysite/templates/404.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/jaxonfinxx/mysite/templates/layout.html", line 98, in top-level template code
+    <p class="text-muted mt-2">{{ now.strftime('%d/%m/%Y %H:%M') }}</p>
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 487, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'now' is undefined
+2025-04-06 22:10:02,290 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:10:02,641 - app - ERROR - Exception on /favicon.ico [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 854, in dispatch_request
+    self.raise_routing_exception(req)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 463, in raise_routing_exception
+    raise request.routing_exception  # type: ignore[misc]
+  File "/usr/local/lib/python3.9/site-packages/flask/ctx.py", line 362, in match_request
+    result = self.url_adapter.match(return_rule=True)  # type: ignore
+  File "/usr/local/lib/python3.9/site-packages/werkzeug/routing/map.py", line 629, in match
+    raise NotFound() from None
+werkzeug.exceptions.NotFound: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 765, in handle_user_exception
+    return self.handle_http_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 740, in handle_http_exception
+    return self.ensure_sync(handler)(e)  # type: ignore[no-any-return]
+  File "/home/jaxonfinxx/mysite/app.py", line 980, in page_not_found
+    return render_template('404.html'), 404
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 131, in _render
+    rv = template.render(context)
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/jaxonfinxx/mysite/templates/404.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/jaxonfinxx/mysite/templates/layout.html", line 98, in top-level template code
+    <p class="text-muted mt-2">{{ now.strftime('%d/%m/%Y %H:%M') }}</p>
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 487, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'now' is undefined
+2025-04-06 22:10:12,330 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:10:22,397 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:10:32,436 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:10:42,455 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:10:52,474 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:11:02,545 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:11:12,607 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:11:22,626 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:11:32,643 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:11:42,661 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:11:52,681 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:12:02,699 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:12:12,716 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:12:22,734 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:12:32,751 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:12:42,780 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:12:52,796 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:13:02,815 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:13:12,836 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:13:22,853 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:13:32,870 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:13:42,969 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:13:52,988 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:14:03,042 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:14:13,061 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:14:23,087 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:14:33,105 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:14:43,127 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:14:53,145 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:15:03,162 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:15:13,191 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:15:23,214 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:15:33,230 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:15:43,249 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:15:53,265 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:16:03,300 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:16:13,323 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:16:23,342 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:16:33,360 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:16:43,377 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:16:53,395 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:17:03,413 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:17:13,445 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:17:23,462 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:17:33,480 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:17:43,498 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:17:53,516 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:18:03,534 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:18:13,556 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:18:23,573 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:18:33,591 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:18:43,610 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:18:43,611 - scheduler - INFO - Verificando posts pendentes
+2025-04-06 22:18:43,616 - scheduler - INFO - Nenhum post pendente encontrado
+2025-04-06 22:18:53,637 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:19:03,655 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:19:13,674 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:19:23,695 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:19:33,713 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:19:43,730 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:19:53,747 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:20:03,771 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:20:13,789 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:20:23,806 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:20:33,842 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:20:43,868 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:20:53,889 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:21:03,904 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:21:13,933 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:21:23,955 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:21:33,972 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:21:43,989 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:21:54,007 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:22:04,061 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:22:14,081 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:22:24,097 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:22:34,115 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:22:44,133 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:22:54,150 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:23:04,210 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:23:14,228 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:23:24,247 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:23:34,266 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:23:44,287 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:23:54,306 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:24:04,327 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:24:14,347 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:24:24,366 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:24:34,390 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:24:44,413 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:24:54,478 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:25:04,532 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:25:14,552 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:25:24,571 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:25:34,591 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:25:44,612 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:25:54,630 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:26:04,649 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:26:14,685 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:26:24,702 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:26:34,719 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:26:44,738 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:26:54,759 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:27:04,811 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:27:14,917 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:27:24,934 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:27:34,956 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:27:44,975 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:27:54,994 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:28:05,010 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:28:15,063 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:28:25,082 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:28:35,102 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:28:45,121 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:28:45,122 - scheduler - INFO - Verificando posts pendentes
+2025-04-06 22:28:45,128 - scheduler - INFO - Nenhum post pendente encontrado
+2025-04-06 22:28:55,145 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:29:05,161 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:29:15,179 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:29:25,197 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:29:35,216 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:29:45,236 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:29:55,254 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:30:05,287 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:30:15,313 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:30:25,333 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:30:35,348 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:30:45,373 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:30:55,395 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:31:05,416 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:31:15,434 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:31:25,449 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:31:35,471 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:31:45,492 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:31:55,511 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:32:05,570 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:32:15,591 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:32:25,608 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:32:35,625 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:32:45,643 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:32:55,663 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:33:05,682 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:33:15,699 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:33:25,722 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:33:35,746 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:33:45,773 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:33:55,791 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:34:05,808 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:34:15,826 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:34:25,844 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:34:35,862 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:34:45,880 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:34:55,897 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:35:05,915 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:35:15,934 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:35:25,949 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:35:35,966 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:35:45,986 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:35:56,004 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:36:06,025 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:36:16,046 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:36:26,064 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:36:36,081 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:36:46,102 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 22:36:56,118 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:07:54,928 - scheduler - INFO - Inicializando scheduler de posts
+2025-04-06 23:07:55,038 - app - INFO - Banco de dados inicializado com sucesso
+2025-04-06 23:07:55,282 - app - INFO - Configuração de webhook: {'ok': True, 'result': True, 'description': 'Webhook is already set'}
+2025-04-06 23:07:55,314 - scheduler - INFO - Configurações padrão criadas se necessário
+2025-04-06 23:07:55,321 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:07:55,321 - scheduler - INFO - Iniciando loop do scheduler
+2025-04-06 23:07:55,322 - scheduler - INFO - Scheduler iniciado
+2025-04-06 23:07:55,322 - app - INFO - Scheduler iniciado na inicialização do aplicativo
+2025-04-06 23:07:55,333 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:07:55,335 - scheduler - INFO - Verificando posts pendentes
+2025-04-06 23:07:55,341 - scheduler - INFO - Nenhum post pendente encontrado
+2025-04-06 23:08:05,358 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:08:15,378 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:08:24,695 - app - INFO - Login bem-sucedido
+2025-04-06 23:08:25,396 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:08:35,413 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:08:45,434 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:08:55,453 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:09:05,470 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:09:15,487 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:09:25,508 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:09:35,526 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:09:45,543 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:09:55,561 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:10:05,580 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:10:15,668 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:10:25,690 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:10:35,708 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:10:45,725 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:10:55,746 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:11:05,765 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:11:15,786 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:11:25,804 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:11:35,821 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:11:45,838 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:11:55,856 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:12:05,882 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:12:15,901 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:12:25,918 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:12:35,936 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:12:45,954 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:12:55,976 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:13:05,993 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:13:16,016 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:13:25,731 - app - INFO - Login bem-sucedido
+2025-04-06 23:13:25,733 - root - ERROR - OSError: write error
+2025-04-06 23:13:26,036 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:13:36,057 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:13:46,075 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:13:56,092 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:14:06,129 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:14:16,148 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:14:26,166 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:14:36,190 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:14:46,211 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:14:56,228 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:15:06,294 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:15:16,314 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:15:26,331 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:15:36,349 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:15:46,368 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:15:56,386 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:16:06,427 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:16:16,445 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:16:26,464 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:16:36,482 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:16:46,501 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:16:56,518 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:17:06,535 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:17:16,569 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:17:26,590 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:17:36,613 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:17:46,631 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:17:56,651 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:17:56,652 - scheduler - INFO - Verificando posts pendentes
+2025-04-06 23:17:56,661 - scheduler - INFO - Nenhum post pendente encontrado
+2025-04-06 23:18:06,696 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:18:16,713 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:18:26,731 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:18:36,750 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:18:46,770 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:18:56,787 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:19:06,807 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:19:16,824 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:19:26,843 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:19:36,863 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:19:46,882 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:19:56,901 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:20:06,924 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:20:16,941 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:20:26,963 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:20:36,987 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True
+2025-04-06 23:20:47,089 - scheduler - INFO - Configurações carregadas: intervalo=600s, ativo=True

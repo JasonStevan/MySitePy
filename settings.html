@@ -1,0 +1,35 @@
+{% extends "layout.html" %}
+
+{% block title %}Configurações - Painel Administrativo{% endblock %}
+
+{% block settings_active %}active{% endblock %}
+
+{% block header_title %}Configurações do Sistema{% endblock %}
+
+{% block content %}
+<div class="card">
+    <h2>Informações do Sistema</h2>
+    <p><strong>Versão:</strong> 1.0.0</p>
+    <p><strong>Data de atualização:</strong> {{ now.strftime('%d/%m/%Y') }}</p>
+    <p><strong>Status do serviço:</strong> Em execução</p>
+</div>
+
+<div class="card">
+    <h2>Configurações de Notificação</h2>
+    <form method="post" action="/settings">
+        <div class="form-group">
+            <label>
+                <input type="checkbox" name="notify_new_member" checked>
+                Notificar novos membros
+            </label>
+        </div>
+        <div class="form-group">
+            <label>
+                <input type="checkbox" name="notify_raffle_complete" checked>
+                Notificar quando sorteio completar
+            </label>
+        </div>
+        <button type="submit" class="btn btn-primary">Salvar Configurações</button>
+    </form>
+</div>
+{% endblock %}

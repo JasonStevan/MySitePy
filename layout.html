@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>{% block title %}Painel Administrativo - Bot Telegram{% endblock %}</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/custom.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/mobile.css') }}">
+    {% block extra_css %}{% endblock %}
+    <style>
+        /* Estilos críticos inline para evitar FOUC */
+        .sidebar {
+            width: 250px;
+            background-color: #37474F;
+            color: white;
+            height: 100vh;
+            position: fixed;
+            transition: all 0.3s ease;
+            z-index: 100;
+            box-shadow: 2px 0 10px rgba(0,0,0,0.1);
+        }
+
+        .content {
+            flex: 1;
+            margin-left: 250px;
+            padding: 20px;
+            transition: all 0.3s ease;
+            min-height: 100vh;
+        }
+
+        .mobile-toggle {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            top: 10px;
+            right: 10px;
+            background-color: #40C4FF;
+            color: white;
+            border: none;
+            height: 40px;
+            width: 40px;
+            border-radius: 50%;
+            cursor: pointer;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+            align-items: center;
+            justify-content: center;
+        }
+
+        .sidebar-overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: rgba(0,0,0,0.5);
+            z-index: 99;
+        }
+
+        .badge {
+            display: inline-block;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: 500;
+            text-align: center;
+        }
+
+        .badge-success { background-color: #4CAF50; color: white; }
+        .badge-warning { background-color: #FFC107; color: #333; }
+        .badge-danger { background-color: #F44336; color: white; }
+        .badge-secondary { background-color: #9E9E9E; color: white; }
+
+        @media (max-width: 992px) {
+            .sidebar {
+                width: 70px;
+            }
+
+            .sidebar-header h2, .sidebar-menu li a span {
+                display: none;
+            }
+
+            .content {
+                margin-left: 70px;
+            }
+
+            .sidebar-menu li a i {
+                margin-right: 0;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .mobile-toggle {
+                display: flex;
+            }
+
+            .sidebar {
+                transform: translateX(-100%);
+                width: 250px;
+            }
+
+            .sidebar.active {
+                transform: translateX(0);
+            }
+
+            .sidebar-header h2, .sidebar-menu li a span {
+                display: block;
+            }
+
+            .content {
+                margin-left: 0;
+            }
+
+            .sidebar-overlay.active {
+                display: block;
+            }
+        }
+    </style>
+</head>
+<body>
+    <button class="mobile-toggle" id="mobile-toggle">
+        <i class="fas fa-bars"></i>
+    </button>
+
+    <div class="sidebar-overlay" id="sidebar-overlay"></div>
+
+    <div class="sidebar" id="sidebar">
+        <div class="sidebar-header">
+            <h2>Bot Admin</h2>
+        </div>
+        <ul class="sidebar-menu">
+            <li class="{% block dashboard_active %}{% endblock %}">
+                <a href="/dashboard">
+                    <i class="fas fa-tachometer-alt"></i>
+                    <span>Dashboard</span>
+                </a>
+            </li>
+            <li class="{% block posts_active %}{% endblock %}">
+                <a href="/posts">
+                    <i class="fas fa-bullhorn"></i>
+                    <span>Posts</span>
+                </a>
+            </li>
+            <li class="{% block raffles_active %}{% endblock %}">
+                <a href="/raffles">
+                    <i class="fas fa-gift"></i>
+                    <span>Sorteios</span>
+                </a>
+            </li>
+            <li class="{% block members_active %}{% endblock %}">
+                <a href="/members">
+                    <i class="fas fa-users"></i>
+                    <span>Membros</span>
+                </a>
+            </li>
+            <li class="{% block bot_config_active %}{% endblock %}">
+                <a href="/bot_config">
+                    <i class="fas fa-robot"></i>
+                    <span>Config. Bot</span>
+                </a>
+            </li>
+            <li class="{% block settings_active %}{% endblock %}">
+                <a href="/settings">
+                    <i class="fas fa-cog"></i>
+                    <span>Configurações</span>
+                </a>
+            </li>
+            <li>
+                <a href="/logout">
+                    <i class="fas fa-sign-out-alt"></i>
+                    <span>Sair</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+
+    <div class="content" id="content">
+        <div class="header">
+            <h1>{% block header_title %}Painel Administrativo{% endblock %}</h1>
+            <button class="logout-btn" onclick="window.location.href='/logout'">
+                <i class="fas fa-sign-out-alt"></i> Sair
+            </button>
+        </div>
+
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+                {% for category, message in messages %}
+                    <div class="flash-message flash-{{ category }}">
+                        {{ message }}
+                    </div>
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+
+        {% block content %}{% endblock %}
+    </div>
+
+    <div id="notification-area" style="position: fixed; top: 20px; right: 20px; z-index: 9999;"></div>
+
+    <script>
+        // Gerenciar menu móvel
+        document.addEventListener('DOMContentLoaded', function() {
+            const mobileToggle = document.getElementById('mobile-toggle');
+            const sidebar = document.getElementById('sidebar');
+            const sidebarOverlay = document.getElementById('sidebar-overlay');
+            const content = document.getElementById('content');
+
+            function toggleSidebar() {
+                sidebar.classList.toggle('active');
+                sidebarOverlay.classList.toggle('active');
+            }
+
+            mobileToggle.addEventListener('click', toggleSidebar);
+            sidebarOverlay.addEventListener('click', toggleSidebar);
+
+            // Fechar alertas após 5 segundos
+            const flashMessages = document.querySelectorAll('.flash-message');
+            flashMessages.forEach(message => {
+                setTimeout(() => {
+                    message.style.opacity = '0';
+                    setTimeout(() => {
+                        message.style.display = 'none';
+                    }, 500);
+                }, 5000);
+            });
+
+            // Verificar se estamos em uma tela pequena e ajustar sidebar
+            function checkScreenSize() {
+                if (window.innerWidth <= 768) {
+                    sidebar.classList.remove('active');
+                    sidebarOverlay.classList.remove('active');
+                }
+            }
+
+            // Executar ao carregar e ao redimensionar
+            checkScreenSize();
+            window.addEventListener('resize', checkScreenSize);
+
+            // Adicionar classe 'active' ao item do menu correspondente à página atual
+            const currentPath = window.location.pathname;
+            const menuItems = document.querySelectorAll('.sidebar-menu li');
+
+            menuItems.forEach(item => {
+                const link = item.querySelector('a');
+                if (link && link.getAttribute('href') === currentPath) {
+                    item.classList.add('active');
+                }
+            });
+        });
+
+        // Função para exibir notificações
+        function showNotification(message, type = 'info') {
+            const notificationArea = document.getElementById('notification-area');
+
+            // Criar elemento de notificação
+            const notification = document.createElement('div');
+            notification.className = `notification notification-${type}`;
+            notification.innerHTML = message;
+
+            // Estilizar notificação
+            notification.style.backgroundColor = type === 'success' ? '#4CAF50' :
+                                           type === 'error' ? '#f44336' : '#2196F3';
+            notification.style.color = 'white';
+            notification.style.padding = '12px 20px';
+            notification.style.marginBottom = '10px';
+            notification.style.borderRadius = '4px';
+            notification.style.boxShadow = '0 2px 10px rgba(0,0,0,0.1)';
+            notification.style.transition = 'all 0.3s ease';
+            notification.style.opacity = '0';
+
+            // Adicionar ao DOM
+            notificationArea.appendChild(notification);
+
+            // Animar entrada
+            setTimeout(() => {
+                notification.style.opacity = '1';
+            }, 10);
+
+            // Remover após alguns segundos
+            setTimeout(() => {
+                notification.style.opacity = '0';
+                setTimeout(() => {
+                    notification.remove();
+                }, 300);
+            }, 5000);
+        }
+    </script>
+
+    {% block scripts %}{% endblock %}
+</body>
+</html>

@@ -1,0 +1,154 @@
+{% extends "layout.html" %}
+
+{% block title %}Configurações do Bot - Painel Administrativo{% endblock %}
+
+{% block bot_config_active %}active{% endblock %}
+
+{% block header_title %}Configurações do Bot{% endblock %}
+
+{% block content %}
+<div class="tabs">
+    <div class="tab active" data-tab="general">Geral</div>
+    <div class="tab" data-tab="welcome">Mensagem de Boas-vindas</div>
+    <div class="tab" data-tab="webhook">Webhook</div>
+    <div class="tab" data-tab="test">Enviar Teste</div>
+</div>
+
+<div id="general" class="tab-content active">
+    <div class="card">
+        <h2>Status do Bot</h2>
+        <p>O bot está atualmente <strong>{{ 'ATIVO' if bot_active else 'INATIVO' }}</strong>.</p>
+        <form method="post" action="/bot_config">
+            <input type="hidden" name="action" value="toggle_bot">
+            <button type="submit" class="btn {{ 'btn-danger' if bot_active else 'btn-success' }}">
+                {{ 'Desativar Bot' if bot_active else 'Ativar Bot' }}
+            </button>
+        </form>
+    </div>
+
+    <div class="card">
+        <h2>Status do Grupo</h2>
+        <p>O grupo está atualmente <strong>{{ 'ABERTO' if group_open else 'FECHADO' }}</strong> para links.</p>
+        <p>Quando o grupo está <strong>aberto</strong>, o bot remove mensagens com links. Quando está <strong>fechado</strong>, links são permitidos.</p>
+        <form method="post" action="/bot_config">
+            <input type="hidden" name="action" value="toggle_group">
+            <input type="hidden" name="open_status" value="{{ 'false' if group_open else 'true' }}">
+            <button type="submit" class="btn {{ 'btn-danger' if group_open else 'btn-success' }}">
+                {{ 'Fechar Grupo' if group_open else 'Abrir Grupo' }}
+            </button>
+        </form>
+    </div>
+
+    <div class="card">
+        <h2>Informações do Bot</h2>
+        <div class="form-group">
+            <label>Token do Bot:</label>
+            <input type="text" class="form-control" value="{{ token }}" readonly>
+        </div>
+        <div class="form-group">
+            <label>ID do Grupo:</label>
+            <input type="text" class="form-control" value="{{ group_id }}" readonly>
+        </div>
+    </div>
+</div>
+
+<div id="welcome" class="tab-content">
+    <div class="card">
+        <h2>Mensagem de Boas-vindas</h2>
+        <p>Esta mensagem será enviada automaticamente quando novos membros entrarem no grupo.</p>
+        <p>Use <code>{name}</code> para incluir o nome do novo membro.</p>
+
+        <form method="post" action="/bot_config">
+            <input type="hidden" name="action" value="update_welcome">
+            <div class="form-group">
+                <label for="welcome_message">Mensagem:</label>
+                <textarea class="form-control" id="welcome_message" name="welcome_message" rows="5">{{ welcome_message }}</textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Salvar Mensagem</button>
+        </form>
+    </div>
+
+    <div class="card">
+        <h2>Exemplo</h2>
+        <div style="background-color: #f5f5f5; padding: 15px; border-radius: 8px; margin-top: 10px;">
+            <div id="welcome-preview"></div>
+        </div>
+    </div>
+</div>
+
+<div id="webhook" class="tab-content">
+    <div class="card">
+        <h2>Configurações do Webhook</h2>
+        <p>O webhook permite que o bot receba atualizações do Telegram.</p>
+
+        <form method="post" action="/bot_config">
+            <input type="hidden" name="action" value="setup_webhook">
+            <button type="submit" class="btn btn-primary">Configurar Webhook</button>
+        </form>
+
+        {% if webhook_info and webhook_info.ok %}
+        <div style="margin-top: 20px;">
+            <h3>Status do Webhook:</h3>
+            <ul>
+                <li><strong>URL:</strong> {{ webhook_info.result.url }}</li>
+                <li><strong>Pendentes:</strong> {{ webhook_info.result.pending_update_count }}</li>
+                <li><strong>Último Erro:</strong> {{ webhook_info.result.last_error_message or 'Nenhum' }}</li>
+            </ul>
+        </div>
+        {% endif %}
+    </div>
+</div>
+
+<div id="test" class="tab-content">
+    <div class="card">
+        <h2>Enviar Mensagem de Teste</h2>
+        <p>Envie uma mensagem de teste para o grupo para verificar se o bot está funcionando corretamente.</p>
+
+        <form method="post" action="/bot_config">
+            <input type="hidden" name="action" value="send_test">
+            <div class="form-group">
+                <label for="test_message">Mensagem:</label>
+                <input type="text" class="form-control" id="test_message" name="test_message" value="Teste do painel administrativo">
+            </div>
+            <button type="submit" class="btn btn-primary">Enviar Mensagem</button>
+        </form>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        // Tabs
+        const tabs = document.querySelectorAll('.tab');
+        const tabContents = document.querySelectorAll('.tab-content');
+
+        tabs.forEach(tab => {
+            tab.addEventListener('click', function() {
+                const tabId = this.getAttribute('data-tab');
+
+                // Desativar todas as tabs
+                tabs.forEach(t => t.classList.remove('active'));
+                tabContents.forEach(c => c.classList.remove('active'));
+
+                // Ativar a tab selecionada
+                this.classList.add('active');
+                document.getElementById(tabId).classList.add('active');
+            });
+        });
+
+        // Preview da mensagem de boas-vindas
+        const welcomeMessage = document.getElementById('welcome_message');
+        const welcomePreview = document.getElementById('welcome-preview');
+
+        function updatePreview() {
+            let preview = welcomeMessage.value;
+            preview = preview.replace('{name}', 'João');
+            welcomePreview.textContent = preview;
+        }
+
+        welcomeMessage.addEventListener('input', updatePreview);
+        updatePreview();
+    });
+</script>
+{% endblock %}

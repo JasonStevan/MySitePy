@@ -1,0 +1,127 @@
+{% extends "layout.html" %}
+
+{% block title %}Posts Promocionais - Painel Administrativo{% endblock %}
+
+{% block posts_active %}active{% endblock %}
+
+{% block header_title %}Posts Promocionais{% endblock %}
+
+{% block content %}
+<div class="card">
+    <h2>Novo Post Promocional</h2>
+    <form method="POST" action="{{ url_for('posts') }}" enctype="multipart/form-data">
+        <input type="hidden" name="action" value="add">
+
+        <div class="form-group">
+            <label for="content">Conteúdo do Post</label>
+            <textarea class="form-control" id="content" name="content" required></textarea>
+            <small>Você pode usar formatação Markdown. Exemplo: *texto em itálico*, **texto em negrito**</small>
+            <div class="char-counter">0 caracteres</div>
+        </div>
+
+        <div class="form-group">
+            <label for="external_link">Link externo (opcional)</label>
+            <input type="url" class="form-control" id="external_link" name="external_link" placeholder="https://exemplo.com">
+        </div>
+
+        <div class="form-group">
+            <label for="image">Imagem (opcional)</label>
+            <input type="file" id="image" name="image" class="form-control" accept="image/*">
+            <div id="image-preview" style="margin-top: 10px; display: none;">
+                <img id="preview-img" src="#" alt="Preview" style="max-width: 200px; max-height: 200px;">
+            </div>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Salvar Post</button>
+    </form>
+</div>
+
+<div class="card">
+    <h2>Posts Existentes</h2>
+    {% if posts and posts|length > 0 %}
+    <div class="table-responsive">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Conteúdo</th>
+                    <th>Imagem</th>
+                    <th>Status</th>
+                    <th>Ações</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for post in posts %}
+                <tr>
+                    <td>{{ post.id }}</td>
+                    <td>{{ post.content|truncate(50) }}</td>
+                    <td>
+                        {% if post.image_path %}
+                        <img src="{{ url_for('static_files', filename=post.image_path.replace('static/', '')) }}" alt="Imagem do post" style="max-width: 50px; max-height: 50px;">
+                        {% else %}
+                        <span>-</span>
+                        {% endif %}
+                    </td>
+                    <td>
+                        {% if post.status == 'pending' %}
+                        <span class="badge badge-warning">Pendente</span>
+                        {% elif post.status == 'sent' %}
+                        <span class="badge badge-success">Enviado</span>
+                        {% else %}
+                        <span class="badge badge-secondary">{{ post.status }}</span>
+                        {% endif %}
+                    </td>
+                    <td>
+                        {% if post.status == 'pending' %}
+                        <form method="POST" action="{{ url_for('posts') }}" style="display: inline;">
+                            <input type="hidden" name="action" value="send">
+                            <input type="hidden" name="post_id" value="{{ post.id }}">
+                            <button type="submit" class="btn btn-success btn-sm">Enviar Agora</button>
+                        </form>
+                        {% endif %}
+                        <form method="POST" action="{{ url_for('posts') }}" style="display: inline;">
+                            <input type="hidden" name="action" value="delete">
+                            <input type="hidden" name="post_id" value="{{ post.id }}">
+                            <button type="submit" class="btn btn-danger btn-sm">Excluir</button>
+                        </form>
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    {% else %}
+    <p>Nenhum post encontrado.</p>
+    {% endif %}
+</div>
+
+{% endblock %}
+
+{% block scripts %}
+<script>
+    // Contagem de caracteres
+    document.getElementById('content').addEventListener('input', function() {
+        let count = this.value.length;
+        document.querySelector('.char-counter').textContent = count + ' caracteres';
+    });
+
+    // Preview de imagem
+    document.getElementById('image').addEventListener('change', function(e) {
+        var preview = document.getElementById('image-preview');
+        var previewImg = document.getElementById('preview-img');
+
+        if (this.files && this.files[0]) {
+            var reader = new FileReader();
+
+            reader.onload = function(e) {
+                previewImg.src = e.target.result;
+                preview.style.display = 'block';
+            }
+
+            reader.readAsDataURL(this.files[0]);
+        } else {
+            preview.style.display = 'none';
+        }
+    });
+</script>
+{% endblock %}

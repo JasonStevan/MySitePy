@@ -1,0 +1,13 @@
+{% extends "layout.html" %}
+
+{% block title %}Página não encontrada - Painel Administrativo{% endblock %}
+
+{% block header_title %}Página não encontrada{% endblock %}
+
+{% block content %}
+<div class="card">
+    <h2>Erro 404</h2>
+    <p>A página que você está procurando não foi encontrada.</p>
+    <a href="{{ url_for('dashboard') }}" class="btn btn-primary">Voltar para o Dashboard</a>
+</div>
+{% endblock %}

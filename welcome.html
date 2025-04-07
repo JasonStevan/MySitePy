@@ -1,0 +1,90 @@
+{% extends "layout.html" %}
+
+{% block title %}Sorteios - Painel Administrativo{% endblock %}
+
+{% block raffles_active %}active{% endblock %}
+
+{% block header_title %}Gerenciamento de Sorteios{% endblock %}
+
+{% block content %}
+<div class="card">
+    <h2>Novo Sorteio</h2>
+    <form method="post" action="/raffles">
+        <input type="hidden" name="action" value="add">
+        <div class="form-group">
+            <label for="name">Nome do Sorteio</label>
+            <input type="text" class="form-control" id="name" name="name" required>
+        </div>
+        <div class="form-group">
+            <label for="date">Data</label>
+            <input type="date" class="form-control" id="date" name="date" required>
+        </div>
+        <div class="form-group">
+            <label for="time">Hora</label>
+            <input type="time" class="form-control" id="time" name="time" required>
+        </div>
+        <div class="form-group">
+            <label for="limit">Limite de Participantes</label>
+            <input type="number" class="form-control" id="limit" name="limit" min="1" required>
+        </div>
+        <div class="form-group">
+            <label for="winners">Número de Ganhadores</label>
+            <input type="number" class="form-control" id="winners" name="winners" min="1" required>
+        </div>
+        <div class="form-group">
+            <label for="prize">Prêmio</label>
+            <input type="text" class="form-control" id="prize" name="prize" required>
+        </div>
+        <button type="submit" class="btn btn-primary">Criar Sorteio</button>
+    </form>
+</div>
+
+<div class="card">
+    <h2>Sorteios Existentes</h2>
+    {% if raffles %}
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Nome</th>
+                <th>Data/Hora</th>
+                <th>Limite</th>
+                <th>Ganhadores</th>
+                <th>Status</th>
+                <th>Participantes</th>
+                <th>Ações</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for raffle in raffles %}
+            <tr>
+                <td>{{ raffle.id }}</td>
+                <td>{{ raffle.name }}</td>
+                <td>{{ raffle.date }} {{ raffle.time }}</td>
+                <td>{{ raffle.limit_participants }}</td>
+                <td>{{ raffle.winners }}</td>
+                <td>{{ raffle.status }}</td>
+                <td>{{ raffle.participants_count }}/{{ raffle.limit_participants }}</td>
+                <td>
+                    {% if raffle.status == 'pending' %}
+                    <form method="post" action="/raffles" style="display: inline;">
+                        <input type="hidden" name="action" value="start">
+                        <input type="hidden" name="raffle_id" value="{{ raffle.id }}">
+                        <button type="submit" class="btn btn-success">Iniciar Sorteio</button>
+                    </form>
+                    {% endif %}
+                    <form method="post" action="/raffles" style="display: inline;">
+                        <input type="hidden" name="action" value="delete">
+                        <input type="hidden" name="raffle_id" value="{{ raffle.id }}">
+                        <button type="submit" class="btn btn-danger">Excluir</button>
+                    </form>
+                </td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    {% else %}
+    <p>Nenhum sorteio encontrado.</p>
+    {% endif %}
+</div>
+{% endblock %}

@@ -1,0 +1,50 @@
+{% extends "layout.html" %}
+
+{% block title %}Membros do Grupo - Painel Administrativo{% endblock %}
+
+{% block members_active %}active{% endblock %}
+
+{% block header_title %}Membros do Grupo{% endblock %}
+
+{% block content %}
+<div class="card">
+    <h2>Membros do Grupo</h2>
+    <p>Lista de todos os membros que entraram no grupo desde que o bot foi configurado.</p>
+
+    {% if members %}
+    <div class="table-responsive">
+        <table>
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Username</th>
+                    <th>Nome</th>
+                    <th>Entrou em</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for member in members %}
+                <tr>
+                    <td>{{ member.user_id }}</td>
+                    <td>
+                        {% if member.username %}
+                        @{{ member.username }}
+                        {% else %}
+                        -
+                        {% endif %}
+                    </td>
+                    <td>{{ member.first_name }} {{ member.last_name }}</td>
+                    <td>{{ member.joined_at }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    {% else %}
+    <div class="alert alert-info">
+        <p>Nenhum membro registrado ainda. Novos membros serão listados aqui quando entrarem no grupo.</p>
+    </div>
+    {% endif %}
+</div>
+
+{% endblock %}

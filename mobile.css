@@ -1,0 +1,133 @@
+/* mobile.css - Estilos específicos para melhorar a experiência em dispositivos móveis */
+
+@media (max-width: 768px) {
+    /* Layout e containers */
+    .card {
+        padding: 15px;
+        margin-bottom: 15px;
+    }
+
+    .content {
+        padding: 10px;
+    }
+
+    /* Fontes e tamanhos */
+    body {
+        font-size: 14px;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+
+    h3 {
+        font-size: 18px;
+    }
+
+    /* Estatísticas */
+    .stat-card .stat-value {
+        font-size: 28px;
+    }
+
+    /* Tabelas responsivas */
+    .table-responsive {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+        max-width: 100%;
+        margin-bottom: 15px;
+    }
+
+    /* Formulários */
+    .form-control {
+        font-size: 16px; /* Para evitar zoom em iOS */
+        padding: 10px;
+    }
+
+    .form-group {
+        margin-bottom: 15px;
+    }
+
+    /* Botões */
+    .btn {
+        display: block;
+        width: 100%;
+        margin: 5px 0;
+        padding: 12px;
+        font-size: 16px;
+    }
+
+    /* Melhorar área de toque */
+    input[type="checkbox"],
+    input[type="radio"] {
+        transform: scale(1.5);
+        margin-right: 10px;
+    }
+
+    /* Melhorar tabs para telas pequenas */
+    .tabs {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .tab {
+        flex: 1 0 auto;
+        text-align: center;
+        padding: 12px 10px;
+        font-size: 14px;
+    }
+
+    /* Menu móvel hamburguer */
+    .mobile-menu-toggle {
+        display: block;
+        position: fixed;
+        top: 10px;
+        right: 10px;
+        z-index: 1000;
+        background-color: var(--primary-color);
+        color: white;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    }
+
+    /* Animações mais suaves */
+    .sidebar {
+        transition: transform 0.3s ease;
+    }
+
+    /* Ajuste mensagens flash */
+    .flash-message {
+        padding: 10px;
+        margin-bottom: 15px;
+    }
+
+    /* Espaçamento mais confortável */
+    table th, table td {
+        padding: 8px;
+    }
+}
+
+/* Ajustes para telas muito pequenas */
+@media (max-width: 360px) {
+    .header h1 {
+        font-size: 20px;
+    }
+
+    .tab {
+        font-size: 12px;
+        padding: 10px 5px;
+    }
+
+    .stat-card .stat-value {
+        font-size: 24px;
+    }
+}

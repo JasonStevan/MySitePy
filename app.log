@@ -1,0 +1,328 @@
+2025-04-06 20:54:03,579 - app - INFO - Banco de dados inicializado com sucesso
+2025-04-06 20:54:03,826 - app - INFO - Configuração de webhook: {'ok': True, 'result': True, 'description': 'Webhook is already set'}
+2025-04-06 20:54:21,747 - app - INFO - Login bem-sucedido
+2025-04-06 20:55:50,487 - app - INFO - Banco de dados inicializado com sucesso
+2025-04-06 20:55:50,770 - app - INFO - Configuração de webhook: {'ok': True, 'result': True, 'description': 'Webhook is already set'}
+2025-04-06 20:56:11,593 - app - INFO - Mensagem enviada para -1002541164460: 200
+2025-04-06 20:56:25,070 - app - INFO - Webhook recebido: {'update_id': 930203940, 'message': {'message_id': 138, 'from': {'id': 1008574716, 'is_bot': False, 'first_name': 'JasonStevan', 'username': 'JasonStevan', 'language_code': 'pt-br'}, 'chat': {'id': -1002541164460, 'title': 'Canva Pro Team', 'type': 'supergroup'}, 'date': 1743972984, 'left_chat_participant': {'id': 6590709865, 'is_bot': False, 'first_name': 'Jason', 'last_name': 'Stevan'}, 'left_chat_member': {'id': 6590709865, 'is_bot': False, 'first_name': 'Jason', 'last_name': 'Stevan'}}}
+2025-04-06 20:56:25,070 - app - INFO - Processando mensagem: '' do chat_id: -1002541164460
+2025-04-06 20:56:38,022 - app - INFO - Webhook recebido: {'update_id': 930203941, 'message': {'message_id': 139, 'from': {'id': 1008574716, 'is_bot': False, 'first_name': 'JasonStevan', 'username': 'JasonStevan', 'language_code': 'pt-br'}, 'chat': {'id': -1002541164460, 'title': 'Canva Pro Team', 'type': 'supergroup'}, 'date': 1743972997, 'new_chat_participant': {'id': 6590709865, 'is_bot': False, 'first_name': 'Jason', 'last_name': 'Stevan'}, 'new_chat_member': {'id': 6590709865, 'is_bot': False, 'first_name': 'Jason', 'last_name': 'Stevan'}, 'new_chat_members': [{'id': 6590709865, 'is_bot': False, 'first_name': 'Jason', 'last_name': 'Stevan'}]}}
+2025-04-06 21:02:01,638 - app - INFO - Login bem-sucedido
+2025-04-06 21:02:33,490 - app - INFO - Mensagem enviada para -1002541164460: 200
+2025-04-06 21:03:08,167 - app - INFO - Webhook recebido: {'update_id': 930203942, 'message': {'message_id': 141, 'from': {'id': 1008574716, 'is_bot': False, 'first_name': 'JasonStevan', 'username': 'JasonStevan', 'language_code': 'pt-br'}, 'chat': {'id': -1002541164460, 'title': 'Canva Pro Team', 'type': 'supergroup'}, 'date': 1743973387, 'left_chat_participant': {'id': 6590709865, 'is_bot': False, 'first_name': 'Jason', 'last_name': 'Stevan'}, 'left_chat_member': {'id': 6590709865, 'is_bot': False, 'first_name': 'Jason', 'last_name': 'Stevan'}}}
+2025-04-06 21:03:08,167 - app - INFO - Processando mensagem: '' do chat_id: -1002541164460
+2025-04-06 21:03:20,978 - app - INFO - Webhook recebido: {'update_id': 930203943, 'message': {'message_id': 142, 'from': {'id': 1008574716, 'is_bot': False, 'first_name': 'JasonStevan', 'username': 'JasonStevan', 'language_code': 'pt-br'}, 'chat': {'id': -1002541164460, 'title': 'Canva Pro Team', 'type': 'supergroup'}, 'date': 1743973400, 'new_chat_participant': {'id': 6590709865, 'is_bot': False, 'first_name': 'Jason', 'last_name': 'Stevan'}, 'new_chat_member': {'id': 6590709865, 'is_bot': False, 'first_name': 'Jason', 'last_name': 'Stevan'}, 'new_chat_members': [{'id': 6590709865, 'is_bot': False, 'first_name': 'Jason', 'last_name': 'Stevan'}]}}
+2025-04-06 21:04:10,207 - app - INFO - Webhook recebido: {'update_id': 930203944, 'message': {'message_id': 143, 'from': {'id': 1008574716, 'is_bot': False, 'first_name': 'JasonStevan', 'username': 'JasonStevan', 'language_code': 'pt-br'}, 'chat': {'id': -1002541164460, 'title': 'Canva Pro Team', 'type': 'supergroup'}, 'date': 1743973450, 'new_chat_participant': {'id': 5567874067, 'is_bot': False, 'first_name': 'Caroline', 'last_name': 'Castro'}, 'new_chat_member': {'id': 5567874067, 'is_bot': False, 'first_name': 'Caroline', 'last_name': 'Castro'}, 'new_chat_members': [{'id': 5567874067, 'is_bot': False, 'first_name': 'Caroline', 'last_name': 'Castro'}]}}
+2025-04-06 21:04:10,638 - app - INFO - Mensagem enviada para -1002541164460: 200
+2025-04-06 21:04:19,177 - app - INFO - Webhook recebido: {'update_id': 930203945, 'message': {'message_id': 145, 'from': {'id': 1008574716, 'is_bot': False, 'first_name': 'JasonStevan', 'username': 'JasonStevan', 'language_code': 'pt-br'}, 'chat': {'id': -1002541164460, 'title': 'Canva Pro Team', 'type': 'supergroup'}, 'date': 1743973459, 'left_chat_participant': {'id': 5567874067, 'is_bot': False, 'first_name': 'Caroline', 'last_name': 'Castro'}, 'left_chat_member': {'id': 5567874067, 'is_bot': False, 'first_name': 'Caroline', 'last_name': 'Castro'}}}
+2025-04-06 21:04:19,178 - app - INFO - Processando mensagem: '' do chat_id: -1002541164460
+2025-04-06 21:04:23,886 - app - INFO - Webhook recebido: {'update_id': 930203946, 'message': {'message_id': 146, 'from': {'id': 1008574716, 'is_bot': False, 'first_name': 'JasonStevan', 'username': 'JasonStevan', 'language_code': 'pt-br'}, 'chat': {'id': -1002541164460, 'title': 'Canva Pro Team', 'type': 'supergroup'}, 'date': 1743973463, 'left_chat_participant': {'id': 6590709865, 'is_bot': False, 'first_name': 'Jason', 'last_name': 'Stevan'}, 'left_chat_member': {'id': 6590709865, 'is_bot': False, 'first_name': 'Jason', 'last_name': 'Stevan'}}}
+2025-04-06 21:04:23,886 - app - INFO - Processando mensagem: '' do chat_id: -1002541164460
+2025-04-06 21:04:34,379 - app - INFO - Webhook recebido: {'update_id': 930203947, 'message': {'message_id': 147, 'from': {'id': 1008574716, 'is_bot': False, 'first_name': 'JasonStevan', 'username': 'JasonStevan', 'language_code': 'pt-br'}, 'chat': {'id': -1002541164460, 'title': 'Canva Pro Team', 'type': 'supergroup'}, 'date': 1743973474, 'new_chat_participant': {'id': 6590709865, 'is_bot': False, 'first_name': 'Jason', 'last_name': 'Stevan'}, 'new_chat_member': {'id': 6590709865, 'is_bot': False, 'first_name': 'Jason', 'last_name': 'Stevan'}, 'new_chat_members': [{'id': 6590709865, 'is_bot': False, 'first_name': 'Jason', 'last_name': 'Stevan'}]}}
+2025-04-06 21:04:59,751 - app - INFO - Webhook recebido: {'update_id': 930203948, 'message': {'message_id': 148, 'from': {'id': 6590709865, 'is_bot': False, 'first_name': 'Jason', 'last_name': 'Stevan'}, 'chat': {'id': -1002541164460, 'title': 'Canva Pro Team', 'type': 'supergroup'}, 'date': 1743973499, 'text': 'Oi'}}
+2025-04-06 21:04:59,751 - app - INFO - TEXTO BRUTO RECEBIDO: 'Oi'
+2025-04-06 21:04:59,752 - app - INFO - Processando mensagem: 'Oi' do chat_id: -1002541164460
+2025-04-06 21:05:07,961 - app - INFO - Webhook recebido: {'update_id': 930203949, 'message': {'message_id': 149, 'from': {'id': 6590709865, 'is_bot': False, 'first_name': 'Jason', 'last_name': 'Stevan'}, 'chat': {'id': -1002541164460, 'title': 'Canva Pro Team', 'type': 'supergroup'}, 'date': 1743973507, 'text': 'Link'}}
+2025-04-06 21:05:07,961 - app - INFO - TEXTO BRUTO RECEBIDO: 'Link'
+2025-04-06 21:05:07,961 - app - INFO - Processando mensagem: 'Link' do chat_id: -1002541164460
+2025-04-06 21:05:38,446 - app - INFO - Webhook recebido: {'update_id': 930203950, 'message': {'message_id': 150, 'from': {'id': 1008574716, 'is_bot': False, 'first_name': 'JasonStevan', 'username': 'JasonStevan', 'language_code': 'pt-br'}, 'chat': {'id': -1002541164460, 'title': 'Canva Pro Team', 'type': 'supergroup'}, 'date': 1743973538, 'text': 'Sorteio'}}
+2025-04-06 21:05:38,446 - app - INFO - TEXTO BRUTO RECEBIDO: 'Sorteio'
+2025-04-06 21:05:38,446 - app - INFO - Processando mensagem: 'Sorteio' do chat_id: -1002541164460
+2025-04-06 21:05:45,200 - app - INFO - Webhook recebido: {'update_id': 930203951, 'message': {'message_id': 151, 'from': {'id': 1008574716, 'is_bot': False, 'first_name': 'JasonStevan', 'username': 'JasonStevan', 'language_code': 'pt-br'}, 'chat': {'id': -1002541164460, 'title': 'Canva Pro Team', 'type': 'supergroup'}, 'date': 1743973545, 'text': '/sorteios', 'entities': [{'offset': 0, 'length': 9, 'type': 'bot_command'}]}}
+2025-04-06 21:05:45,200 - app - INFO - TEXTO BRUTO RECEBIDO: '/sorteios'
+2025-04-06 21:05:45,201 - app - INFO - Processando mensagem: '/sorteios' do chat_id: -1002541164460
+2025-04-06 21:05:45,601 - app - INFO - Mensagem enviada para -1002541164460: 200
+2025-04-06 21:05:49,709 - app - INFO - Webhook recebido: {'update_id': 930203952, 'message': {'message_id': 153, 'from': {'id': 1008574716, 'is_bot': False, 'first_name': 'JasonStevan', 'username': 'JasonStevan', 'language_code': 'pt-br'}, 'chat': {'id': -1002541164460, 'title': 'Canva Pro Team', 'type': 'supergroup'}, 'date': 1743973549, 'text': '/sorteio1@CanvyPro_bot', 'entities': [{'offset': 0, 'length': 22, 'type': 'bot_command'}]}}
+2025-04-06 21:05:49,710 - app - INFO - TEXTO BRUTO RECEBIDO: '/sorteio1@CanvyPro_bot'
+2025-04-06 21:05:49,710 - app - INFO - Processando mensagem: '/sorteio1@CanvyPro_bot' do chat_id: -1002541164460
+2025-04-06 21:05:50,119 - app - INFO - Mensagem enviada para -1002541164460: 200
+2025-04-06 21:05:59,590 - app - INFO - Webhook recebido: {'update_id': 930203953, 'message': {'message_id': 155, 'from': {'id': 1008574716, 'is_bot': False, 'first_name': 'JasonStevan', 'username': 'JasonStevan', 'language_code': 'pt-br'}, 'chat': {'id': -1002541164460, 'title': 'Canva Pro Team', 'type': 'supergroup'}, 'date': 1743973559, 'text': '/sorteio1', 'entities': [{'offset': 0, 'length': 9, 'type': 'bot_command'}]}}
+2025-04-06 21:05:59,590 - app - INFO - TEXTO BRUTO RECEBIDO: '/sorteio1'
+2025-04-06 21:05:59,591 - app - INFO - Processando mensagem: '/sorteio1' do chat_id: -1002541164460
+2025-04-06 21:05:59,591 - app - INFO - Formato /sorteioN detectado: ID=1
+2025-04-06 21:05:59,604 - app - ERROR - Erro no webhook: table participants has no column named joined_at
+2025-04-06 21:07:15,533 - app - INFO - Webhook recebido: {'update_id': 930203954, 'message': {'message_id': 156, 'from': {'id': 1008574716, 'is_bot': False, 'first_name': 'JasonStevan', 'username': 'JasonStevan', 'language_code': 'pt-br'}, 'chat': {'id': -1002541164460, 'title': 'Canva Pro Team', 'type': 'supergroup'}, 'date': 1743973635, 'text': '/sorteios', 'entities': [{'offset': 0, 'length': 9, 'type': 'bot_command'}]}}
+2025-04-06 21:07:15,534 - app - INFO - TEXTO BRUTO RECEBIDO: '/sorteios'
+2025-04-06 21:07:15,534 - app - INFO - Processando mensagem: '/sorteios' do chat_id: -1002541164460
+2025-04-06 21:07:15,938 - app - INFO - Mensagem enviada para -1002541164460: 200
+2025-04-06 21:07:18,373 - app - INFO - Webhook recebido: {'update_id': 930203955, 'message': {'message_id': 158, 'from': {'id': 1008574716, 'is_bot': False, 'first_name': 'JasonStevan', 'username': 'JasonStevan', 'language_code': 'pt-br'}, 'chat': {'id': -1002541164460, 'title': 'Canva Pro Team', 'type': 'supergroup'}, 'date': 1743973638, 'text': '/sorteio1@CanvyPro_bot', 'entities': [{'offset': 0, 'length': 22, 'type': 'bot_command'}]}}
+2025-04-06 21:07:18,373 - app - INFO - TEXTO BRUTO RECEBIDO: '/sorteio1@CanvyPro_bot'
+2025-04-06 21:07:18,374 - app - INFO - Processando mensagem: '/sorteio1@CanvyPro_bot' do chat_id: -1002541164460
+2025-04-06 21:07:18,771 - app - INFO - Mensagem enviada para -1002541164460: 200
+2025-04-06 21:07:31,112 - app - INFO - Webhook recebido: {'update_id': 930203956, 'message': {'message_id': 160, 'from': {'id': 1008574716, 'is_bot': False, 'first_name': 'JasonStevan', 'username': 'JasonStevan', 'language_code': 'pt-br'}, 'chat': {'id': -1002541164460, 'title': 'Canva Pro Team', 'type': 'supergroup'}, 'date': 1743973650, 'text': '/sorteio1', 'entities': [{'offset': 0, 'length': 9, 'type': 'bot_command'}]}}
+2025-04-06 21:07:31,113 - app - INFO - TEXTO BRUTO RECEBIDO: '/sorteio1'
+2025-04-06 21:07:31,113 - app - INFO - Processando mensagem: '/sorteio1' do chat_id: -1002541164460
+2025-04-06 21:07:31,113 - app - INFO - Formato /sorteioN detectado: ID=1
+2025-04-06 21:07:31,123 - app - ERROR - Erro no webhook: table participants has no column named joined_at
+2025-04-06 21:09:01,501 - app - ERROR - Exception on /posts [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/home/jaxonfinxx/mysite/app.py", line 513, in posts
+    add_post(content, image_path, schedule_time)
+  File "/home/jaxonfinxx/mysite/app.py", line 227, in add_post
+    conn.execute(
+sqlite3.OperationalError: table posts has no column named image_path
+2025-04-06 23:20:56,974 - app - INFO - Banco de dados inicializado com sucesso
+2025-04-06 23:20:57,237 - app - INFO - Configuração de webhook: {'ok': True, 'result': True, 'description': 'Webhook is already set'}
+2025-04-06 23:21:03,094 - app - ERROR - Erro ao obter contagem de membros: Bad Request: group chat was upgraded to a supergroup chat
+2025-04-06 23:21:32,400 - app - INFO - Mensagem enviada para -4649239012: 400
+2025-04-06 23:22:46,259 - app - INFO - Banco de dados inicializado com sucesso
+2025-04-06 23:22:46,513 - app - INFO - Configuração de webhook: {'ok': True, 'result': True, 'description': 'Webhook is already set'}
+2025-04-06 23:23:07,523 - app - INFO - Login bem-sucedido
+2025-04-06 23:23:27,601 - app - INFO - Mensagem enviada para -1002541164460: 200
+2025-04-06 23:23:50,844 - app - INFO - Webhook recebido: {'update_id': 930203957, 'message': {'message_id': 162, 'from': {'id': 1008574716, 'is_bot': False, 'first_name': 'JasonStevan', 'username': 'JasonStevan', 'language_code': 'pt-br'}, 'chat': {'id': -1002541164460, 'title': 'Canva Pro Team', 'type': 'supergroup'}, 'date': 1743981830, 'left_chat_participant': {'id': 6590709865, 'is_bot': False, 'first_name': 'Jason', 'last_name': 'Stevan'}, 'left_chat_member': {'id': 6590709865, 'is_bot': False, 'first_name': 'Jason', 'last_name': 'Stevan'}}}
+2025-04-06 23:23:57,863 - app - INFO - Webhook recebido: {'update_id': 930203958, 'message': {'message_id': 163, 'from': {'id': 1008574716, 'is_bot': False, 'first_name': 'JasonStevan', 'username': 'JasonStevan', 'language_code': 'pt-br'}, 'chat': {'id': -1002541164460, 'title': 'Canva Pro Team', 'type': 'supergroup'}, 'date': 1743981837, 'new_chat_participant': {'id': 6590709865, 'is_bot': False, 'first_name': 'Jason', 'last_name': 'Stevan'}, 'new_chat_member': {'id': 6590709865, 'is_bot': False, 'first_name': 'Jason', 'last_name': 'Stevan'}, 'new_chat_members': [{'id': 6590709865, 'is_bot': False, 'first_name': 'Jason', 'last_name': 'Stevan'}]}}
+2025-04-06 23:24:19,059 - app - INFO - Webhook recebido: {'update_id': 930203959, 'message': {'message_id': 164, 'from': {'id': 1008574716, 'is_bot': False, 'first_name': 'JasonStevan', 'username': 'JasonStevan', 'language_code': 'pt-br'}, 'chat': {'id': -1002541164460, 'title': 'Canva Pro Team', 'type': 'supergroup'}, 'date': 1743981858, 'new_chat_participant': {'id': 5063097529, 'is_bot': False, 'first_name': 'Nynnah', 'last_name': 'Rodrigues', 'username': 'RodriguesNynnah'}, 'new_chat_member': {'id': 5063097529, 'is_bot': False, 'first_name': 'Nynnah', 'last_name': 'Rodrigues', 'username': 'RodriguesNynnah'}, 'new_chat_members': [{'id': 5063097529, 'is_bot': False, 'first_name': 'Nynnah', 'last_name': 'Rodrigues', 'username': 'RodriguesNynnah'}]}}
+2025-04-06 23:24:19,524 - app - INFO - Mensagem enviada para -1002541164460: 200
+2025-04-06 23:29:30,915 - app - ERROR - Exception on /posts [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/home/jaxonfinxx/mysite/app.py", line 514, in posts
+    add_post(content, image_path, schedule_time)
+  File "/home/jaxonfinxx/mysite/app.py", line 228, in add_post
+    conn.execute(
+sqlite3.OperationalError: table posts has no column named image_path
+2025-04-06 23:53:10,059 - app - INFO - Banco de dados inicializado com sucesso
+2025-04-06 23:53:10,331 - app - INFO - Configuração de webhook: {'ok': True, 'result': True, 'description': 'Webhook is already set'}
+2025-04-06 23:53:25,372 - app - INFO - Login bem-sucedido
+2025-04-06 23:55:23,219 - app - ERROR - Exception on /posts [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/home/jaxonfinxx/mysite/app.py", line 514, in posts
+    add_post(content, image_path, schedule_time)
+  File "/home/jaxonfinxx/mysite/app.py", line 228, in add_post
+    conn.execute(
+sqlite3.OperationalError: table posts has no column named image_path
+2025-04-07 00:04:35,391 - app - INFO - Banco de dados inicializado com sucesso
+2025-04-07 00:04:35,659 - app - INFO - Configuração de webhook: {'ok': True, 'result': True, 'description': 'Webhook is already set'}
+2025-04-07 00:04:43,037 - app - ERROR - Exception on /posts [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/home/jaxonfinxx/mysite/app.py", line 530, in posts
+    return render_template('promo.html', posts=posts, now=datetime.now())
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 131, in _render
+    rv = template.render(context)
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/jaxonfinxx/mysite/templates/promo.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/jaxonfinxx/mysite/templates/layout.html", line 197, in top-level template code
+    {% block content %}{% endblock %}
+  File "/home/jaxonfinxx/mysite/templates/promo.html", line 23, in block 'content'
+    value="{{ stats.post_interval }}" required class="form-control" style="flex: 1;">
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 487, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'stats' is undefined
+2025-04-07 00:04:46,104 - app - ERROR - Exception on /posts [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/home/jaxonfinxx/mysite/app.py", line 530, in posts
+    return render_template('promo.html', posts=posts, now=datetime.now())
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 131, in _render
+    rv = template.render(context)
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/jaxonfinxx/mysite/templates/promo.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/jaxonfinxx/mysite/templates/layout.html", line 197, in top-level template code
+    {% block content %}{% endblock %}
+  File "/home/jaxonfinxx/mysite/templates/promo.html", line 23, in block 'content'
+    value="{{ stats.post_interval }}" required class="form-control" style="flex: 1;">
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 487, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'stats' is undefined
+2025-04-07 00:24:37,603 - app - INFO - Banco de dados inicializado com sucesso
+2025-04-07 00:24:37,861 - app - INFO - Configuração de webhook: {'ok': True, 'result': True, 'description': 'Webhook is already set'}
+2025-04-07 00:24:57,257 - app - INFO - Login bem-sucedido
+2025-04-07 00:25:03,776 - app - ERROR - Exception on /posts [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/home/jaxonfinxx/mysite/app.py", line 530, in posts
+    return render_template('promo.html', posts=posts, now=datetime.now())
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 150, in render_template
+    return _render(app, template, context)
+  File "/usr/local/lib/python3.9/site-packages/flask/templating.py", line 131, in _render
+    rv = template.render(context)
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "/home/jaxonfinxx/mysite/templates/promo.html", line 1, in top-level template code
+    {% extends "layout.html" %}
+  File "/home/jaxonfinxx/mysite/templates/layout.html", line 197, in top-level template code
+    {% block content %}{% endblock %}
+  File "/home/jaxonfinxx/mysite/templates/promo.html", line 23, in block 'content'
+    value="{{ stats.post_interval }}" required class="form-control" style="flex: 1;">
+  File "/usr/local/lib/python3.9/site-packages/jinja2/environment.py", line 487, in getattr
+    return getattr(obj, attribute)
+jinja2.exceptions.UndefinedError: 'stats' is undefined
+2025-04-07 00:29:25,751 - app - INFO - Banco de dados inicializado com sucesso
+2025-04-07 00:29:26,007 - app - INFO - Configuração de webhook: {'ok': True, 'result': True, 'description': 'Webhook is already set'}
+2025-04-07 00:29:39,274 - app - INFO - Login bem-sucedido
+2025-04-07 00:30:36,183 - app - ERROR - Exception on /posts [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/home/jaxonfinxx/mysite/app.py", line 514, in posts
+    add_post(content, image_path, schedule_time)
+  File "/home/jaxonfinxx/mysite/app.py", line 228, in add_post
+    conn.execute(
+sqlite3.OperationalError: table posts has no column named image_path
+2025-04-07 00:32:12,657 - app - INFO - Webhook recebido: {'update_id': 930203960, 'message': {'message_id': 166, 'from': {'id': 1008574716, 'is_bot': False, 'first_name': 'JasonStevan', 'username': 'JasonStevan', 'language_code': 'pt-br'}, 'chat': {'id': -1002541164460, 'title': 'Canva Pro Team', 'type': 'supergroup'}, 'date': 1743985932, 'text': '/sorteios', 'entities': [{'offset': 0, 'length': 9, 'type': 'bot_command'}]}}
+2025-04-07 00:32:13,051 - app - INFO - Mensagem enviada para -1002541164460: 200
+2025-04-07 00:32:19,530 - app - INFO - Webhook recebido: {'update_id': 930203961, 'message': {'message_id': 168, 'from': {'id': 1008574716, 'is_bot': False, 'first_name': 'JasonStevan', 'username': 'JasonStevan', 'language_code': 'pt-br'}, 'chat': {'id': -1002541164460, 'title': 'Canva Pro Team', 'type': 'supergroup'}, 'date': 1743985939, 'text': '/sorteio 1', 'entities': [{'offset': 0, 'length': 8, 'type': 'bot_command'}]}}
+2025-04-07 00:32:19,541 - app - ERROR - Erro no webhook: table participants has no column named joined_at
+2025-04-07 00:32:30,459 - app - INFO - Webhook recebido: {'update_id': 930203962, 'message': {'message_id': 169, 'from': {'id': 1008574716, 'is_bot': False, 'first_name': 'JasonStevan', 'username': 'JasonStevan', 'language_code': 'pt-br'}, 'chat': {'id': -1002541164460, 'title': 'Canva Pro Team', 'type': 'supergroup'}, 'date': 1743985950, 'text': '/sorteio1', 'entities': [{'offset': 0, 'length': 9, 'type': 'bot_command'}]}}
+2025-04-07 00:32:36,037 - app - INFO - Webhook recebido: {'update_id': 930203963, 'message': {'message_id': 170, 'from': {'id': 1008574716, 'is_bot': False, 'first_name': 'JasonStevan', 'username': 'JasonStevan', 'language_code': 'pt-br'}, 'chat': {'id': -1002541164460, 'title': 'Canva Pro Team', 'type': 'supergroup'}, 'date': 1743985955, 'text': 'Hi'}}
+2025-04-07 00:55:38,285 - app - INFO - Banco de dados inicializado com sucesso
+2025-04-07 00:55:38,574 - app - INFO - Configuração de webhook: {'ok': True, 'result': True, 'description': 'Webhook is already set'}
+2025-04-07 00:55:54,113 - app - INFO - Login bem-sucedido
+2025-04-07 00:56:16,706 - app - ERROR - Exception on /posts [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/home/jaxonfinxx/mysite/app.py", line 514, in posts
+    add_post(content, image_path, schedule_time)
+  File "/home/jaxonfinxx/mysite/app.py", line 228, in add_post
+    conn.execute(
+sqlite3.OperationalError: table posts has no column named image_path
+2025-04-07 01:05:44,371 - app - INFO - Banco de dados inicializado com sucesso
+2025-04-07 01:05:44,676 - app - INFO - Configuração de webhook: {'ok': True, 'result': True, 'description': 'Webhook is already set'}
+2025-04-07 01:06:34,458 - app - ERROR - Exception on /posts [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/home/jaxonfinxx/mysite/app.py", line 514, in posts
+    add_post(content, image_path, schedule_time)
+  File "/home/jaxonfinxx/mysite/app.py", line 228, in add_post
+    conn.execute(
+sqlite3.OperationalError: table posts has no column named image_path
+2025-04-07 01:13:41,369 - app - INFO - Banco de dados inicializado com sucesso
+2025-04-07 01:13:41,612 - app - INFO - Configuração de webhook: {'ok': True, 'result': True, 'description': 'Webhook is already set'}
+2025-04-07 01:45:11,212 - app - INFO - Login bem-sucedido
+2025-04-07 01:45:53,302 - app - ERROR - Exception on /posts [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/home/jaxonfinxx/mysite/app.py", line 514, in posts
+    add_post(content, image_path, schedule_time)
+  File "/home/jaxonfinxx/mysite/app.py", line 228, in add_post
+    conn.execute(
+sqlite3.OperationalError: table posts has no column named image_path
+2025-04-07 01:45:56,896 - app - ERROR - Exception on /posts [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/home/jaxonfinxx/mysite/app.py", line 514, in posts
+    add_post(content, image_path, schedule_time)
+  File "/home/jaxonfinxx/mysite/app.py", line 228, in add_post
+    conn.execute(
+sqlite3.OperationalError: table posts has no column named image_path
+2025-04-07 09:23:18,807 - app - INFO - Login bem-sucedido
+2025-04-07 09:33:35,179 - app - INFO - Webhook recebido: {'update_id': 930203964, 'message': {'message_id': 171, 'from': {'id': 1008574716, 'is_bot': False, 'first_name': 'JasonStevan', 'username': 'JasonStevan', 'language_code': 'pt-br'}, 'chat': {'id': -1002541164460, 'title': 'Canva Pro Team', 'type': 'supergroup'}, 'date': 1744018414, 'text': '/sorteios', 'entities': [{'offset': 0, 'length': 9, 'type': 'bot_command'}]}}
+2025-04-07 09:33:35,573 - app - INFO - Mensagem enviada para -1002541164460: 200
+2025-04-07 10:43:50,152 - app - INFO - Login bem-sucedido
+2025-04-07 10:44:25,954 - app - ERROR - Exception on /posts [POST]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.9/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+  File "/home/jaxonfinxx/mysite/app.py", line 514, in posts
+    message += f"\n\n{post['external_link']}"
+  File "/home/jaxonfinxx/mysite/app.py", line 228, in add_post
+    conn = get_db_connection()
+sqlite3.OperationalError: table posts has no column named image_path
+2025-04-07 10:47:02,642 - app - INFO - Mensagem enviada para -1002541164460: 200
+2025-04-07 10:54:22,498 - app - INFO - Webhook recebido: {'update_id': 930203965, 'message': {'message_id': 174, 'from': {'id': 1008574716, 'is_bot': False, 'first_name': 'JasonStevan', 'username': 'JasonStevan', 'language_code': 'pt-br'}, 'chat': {'id': -1002541164460, 'title': 'Canva Pro Team', 'type': 'supergroup'}, 'date': 1744023262, 'left_chat_participant': {'id': 6590709865, 'is_bot': False, 'first_name': 'Jason', 'last_name': 'Stevan'}, 'left_chat_member': {'id': 6590709865, 'is_bot': False, 'first_name': 'Jason', 'last_name': 'Stevan'}}}
+2025-04-07 10:54:30,751 - app - INFO - Webhook recebido: {'update_id': 930203966, 'message': {'message_id': 175, 'from': {'id': 1008574716, 'is_bot': False, 'first_name': 'JasonStevan', 'username': 'JasonStevan', 'language_code': 'pt-br'}, 'chat': {'id': -1002541164460, 'title': 'Canva Pro Team', 'type': 'supergroup'}, 'date': 1744023270, 'new_chat_participant': {'id': 6590709865, 'is_bot': False, 'first_name': 'Jason', 'last_name': 'Stevan'}, 'new_chat_member': {'id': 6590709865, 'is_bot': False, 'first_name': 'Jason', 'last_name': 'Stevan'}, 'new_chat_members': [{'id': 6590709865, 'is_bot': False, 'first_name': 'Jason', 'last_name': 'Stevan'}]}}
+2025-04-07 10:55:40,070 - app - INFO - Webhook recebido: {'update_id': 930203967, 'message': {'message_id': 176, 'from': {'id': 1008574716, 'is_bot': False, 'first_name': 'JasonStevan', 'username': 'JasonStevan', 'language_code': 'pt-br'}, 'chat': {'id': -1002541164460, 'title': 'Canva Pro Team', 'type': 'supergroup'}, 'date': 1744023339, 'text': '/sorteio', 'entities': [{'offset': 0, 'length': 8, 'type': 'bot_command'}]}}
+2025-04-07 10:55:40,463 - app - INFO - Mensagem enviada para -1002541164460: 200
+2025-04-07 10:55:55,478 - app - INFO - Webhook recebido: {'update_id': 930203968, 'message': {'message_id': 178, 'from': {'id': 1008574716, 'is_bot': False, 'first_name': 'JasonStevan', 'username': 'JasonStevan', 'language_code': 'pt-br'}, 'chat': {'id': -1002541164460, 'title': 'Canva Pro Team', 'type': 'supergroup'}, 'date': 1744023355, 'text': '/sorteio 1', 'entities': [{'offset': 0, 'length': 8, 'type': 'bot_command'}]}}
+2025-04-07 10:55:55,492 - app - ERROR - Erro no webhook: table participants has no column named joined_at
+2025-04-07 12:33:37,163 - app - INFO - Login bem-sucedido
+2025-04-07 12:39:24,618 - app - INFO - Login bem-sucedido

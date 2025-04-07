@@ -1,0 +1,37 @@
+{% extends "layout.html" %}
+
+{% block title %}Dashboard - Painel Administrativo{% endblock %}
+
+{% block dashboard_active %}active{% endblock %}
+
+{% block header_title %}Dashboard{% endblock %}
+
+{% block content %}
+<div class="card">
+    <h2>Visão Geral</h2>
+    <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 20px;">
+        <div style="text-align: center; padding: 20px;">
+            <h3>Total de Posts</h3>
+            <p style="font-size: 32px; font-weight: bold; margin: 10px 0; color: #40C4FF;">{{ stats.total_posts }}</p>
+        </div>
+        <div style="text-align: center; padding: 20px;">
+            <h3>Sorteios Ativos</h3>
+            <p style="font-size: 32px; font-weight: bold; margin: 10px 0; color: #40C4FF;">{{ stats.active_raffles }}</p>
+        </div>
+        <div style="text-align: center; padding: 20px;">
+            <h3>Membros no Grupo</h3>
+            <p style="font-size: 32px; font-weight: bold; margin: 10px 0; color: #40C4FF;">{{ stats.group_members }}</p>
+        </div>
+        <div style="text-align: center; padding: 20px;">
+            <h3>Total de Sorteios</h3>
+            <p style="font-size: 32px; font-weight: bold; margin: 10px 0; color: #40C4FF;">{{ stats.total_raffles }}</p>
+        </div>
+    </div>
+</div>
+
+<div class="card">
+    <h2>Status do Bot</h2>
+    <p>O bot está {{ 'ativo' if bot_active else 'inativo' }}.</p>
+    <a href="/bot_config" class="btn btn-primary">Configurar Bot</a>
+</div>
+{% endblock %}
