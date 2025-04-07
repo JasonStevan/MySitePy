@@ -443,18 +443,18 @@ def index():
 @app.route('/login', methods=['GET', 'POST'])
 def login():
     if request.method == 'POST':
-        username = request.form['username']
-        password = request.form['password']
+        email = request.form.get('email') 
+        password = request.form.get('password')
 
-        if username == 'admin@exemplo.com' and password == 'senha123':
+        if email == 'admin@exemplo.com' and password == 'senha123':
             session['logged_in'] = True
             flash('Login realizado com sucesso!', 'success')
             return redirect(url_for('posts'))
         else:
             flash('Credenciais inválidas. Tente novamente.', 'danger')
 
-    return render_template('login.html')
-
+    return render_template('index.html')
+    
 @app.route('/logout')
 def logout():
     session.pop('logged_in', None)
